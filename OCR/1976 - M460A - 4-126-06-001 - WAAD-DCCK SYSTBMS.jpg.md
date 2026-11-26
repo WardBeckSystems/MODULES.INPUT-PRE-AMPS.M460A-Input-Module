@@ -21,7 +21,7 @@ Wiki page: [M460A](../../../../PAGES/M460A.md)
 - **Words (OCR):** 90 in 80 lines: E3 68l6 · E2 · C6 · 25 · R2o · R1?_ C1g C18 · 46 · C21 R2i R14 Lmi453 · R24 · R18 · E4 · R3
 - **Title block:** (171, 7)–(343, 53) mm: [SNOCKD · USED ON · B563PM · WBS · BD · SOCKETS ACCEI · DRM · Dm · 4288 · DA JULY 74 · CKD · ECALE
 
-Every curve, box, word and wire group: [1976 - M460A - 4-126-06-001 - WAAD-DCCK SYSTBMS (traced).json](../SCHEMATICS/1976%20-%20M460A%20-%204-126-06-001%20-%20WAAD-DCCK%20SYSTBMS%20(traced).json) (the CAD file: `1976 - M460A - 4-126-06-001 - WAAD-DCCK SYSTBMS (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - 4-126-06-001 - WAAD-DCCK SYSTBMS (traced).json](../SCHEMATICS/1976%20-%20M460A%20-%204-126-06-001%20-%20WAAD-DCCK%20SYSTBMS%20%28traced%29.json) (the CAD file: `1976 - M460A - 4-126-06-001 - WAAD-DCCK SYSTBMS (traced).dxf`).
 
 ## Full text
 

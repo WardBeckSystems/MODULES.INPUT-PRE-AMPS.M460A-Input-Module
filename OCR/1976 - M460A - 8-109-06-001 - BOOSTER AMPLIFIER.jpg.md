@@ -21,7 +21,7 @@ Wiki page: [M460A](../../../../PAGES/M460A.md)
 - **Words (OCR):** 113 in 101 lines: 0E7 · E2 · ~C1 33/10 +C2. · 33/6 · E10 · -Cbep · ~RI6 22k · Ri · ~R18 2ek · RS · 6k2 · R4 Lk?
 - **Title block:** (133, 2)–(432, 135) mm: WBS · 'ES6 · 8-109 · zzoli2c16- · Ecol93 _ 4047 · ~R36 4k7 · ~R37 4K7 · 4028 · (ISSUE DATE · REVISION · APP · EG · WBS WARD-BECK · SYSTEMS · DRN: GEB · 8 = 109 · ENG MRW 4/78 · BOOSTER AMPLIFIER · CKD
 
-Every curve, box, word and wire group: [1976 - M460A - 8-109-06-001 - BOOSTER AMPLIFIER (traced).json](../SCHEMATICS/1976%20-%20M460A%20-%208-109-06-001%20-%20BOOSTER%20AMPLIFIER%20(traced).json) (the CAD file: `1976 - M460A - 8-109-06-001 - BOOSTER AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - 8-109-06-001 - BOOSTER AMPLIFIER (traced).json](../SCHEMATICS/1976%20-%20M460A%20-%208-109-06-001%20-%20BOOSTER%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1976 - M460A - 8-109-06-001 - BOOSTER AMPLIFIER (traced).dxf`).
 
 ## Full text
 

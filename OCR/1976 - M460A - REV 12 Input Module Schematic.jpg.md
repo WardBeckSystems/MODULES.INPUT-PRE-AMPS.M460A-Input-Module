@@ -11,6 +11,20 @@ Wiki page: [M460A](../../../../PAGES/M460A.md)
 - **Size:** 3,743,126 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 143 mm, 2000 × 664 px traced (0.216 mm/px)
+- **Ink extent:** 1–431 mm across, 0–143 mm up
+- **Outlines:** line 2,189 rings, 16,473 straight (21,468 mm) / 3,020 curved (3,352 mm); text 47 rings, 289 straight (241 mm) / 79 curved (94.2 mm)
+- **Centre lines:** 14,157 paths (447 closed); straight 12,126 mm, curved 51.9 mm; horizontal 5,063 mm, vertical 3,370 mm, diagonal 3,692 mm
+- **Circles and arcs:** 0 circles, 18 arcs
+- **Closed boxes:** 11
+- **Dots (junctions):** 1
+- **Words (OCR):** 5 in 5 lines: ERTCT · F+FT · NlE · JRS 0-034 · ASSEMBlY
+- **Wiring (first pass):** 284 connected wire groups from 1,223 runs; labelled ends: 93 mm → F+FT; 70 mm → F+FT; 37 mm → ASSEMBlY; 25 mm → ASSEMBlY; 22 mm → F+FT
+
+Every curve, box, word and wire group: [1976 - M460A - REV 12 Input Module Schematic (traced).json](../SCHEMATICS/1976%20-%20M460A%20-%20REV%2012%20Input%20Module%20Schematic%20%28traced%29.json) (the CAD file: `1976 - M460A - REV 12 Input Module Schematic (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

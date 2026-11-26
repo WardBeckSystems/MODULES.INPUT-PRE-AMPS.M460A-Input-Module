@@ -22,7 +22,7 @@ Wiki page: [M460A](../../../../PAGES/M460A.md)
 - **Words (OCR):** 187 in 152 lines: Micronhonc · micrcohone · Seeccs · sian · WBS · Kinc · (PAD OFF · PHASE · Rhen · high pass FilteR control RIOM; · Potn · {ron 25
 - **Title block:** (162, 0)–(432, 312) mm: Micronhonc · micrcohone · Seeccs · sian · WBS · Kinc · (PAD OFF · high pass FilteR control RIOM; · Potn · {ron 25 · 120 · 2251 · adjustab · controi · Provicct 56 c · nuousy · curces · conero| · nout ·
 
-Every curve, box, word and wire group: [1976 - M460A - 460-04-008 - XTERNA CONTROI FUNCTIONS NOTE THAT THE (traced).json](../MECHANICAL/1976%20-%20M460A%20-%20460-04-008%20-%20XTERNA%20CONTROI%20FUNCTIONS%20NOTE%20THAT%20THE%20(traced).json) (the CAD file: `1976 - M460A - 460-04-008 - XTERNA CONTROI FUNCTIONS NOTE THAT THE (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - 460-04-008 - XTERNA CONTROI FUNCTIONS NOTE THAT THE (traced).json](../MECHANICAL/1976%20-%20M460A%20-%20460-04-008%20-%20XTERNA%20CONTROI%20FUNCTIONS%20NOTE%20THAT%20THE%20%28traced%29.json) (the CAD file: `1976 - M460A - 460-04-008 - XTERNA CONTROI FUNCTIONS NOTE THAT THE (traced).dxf`).
 
 ## Full text
 

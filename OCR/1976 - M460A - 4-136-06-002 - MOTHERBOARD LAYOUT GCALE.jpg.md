@@ -22,7 +22,7 @@ Wiki page: [M460A](../../../../PAGES/M460A.md)
 - **Words (OCR):** 122 in 102 lines: Rios · swisi iSwig Swi3 · Swo · Sw9 · SWG Sws Sw4 · Sh3 · Sw2 · Side · Side · 4K7 · Riio · Swib
 - **Title block:** (344, 3)–(411, 30) mm: WES WAAD-BeCk · M46OA · INPUT MODULE · CKD · SCAL( · MOTHERBOARD LAYout_ · TOLs
 
-Every curve, box, word and wire group: [1976 - M460A - 4-136-06-002 - MOTHERBOARD LAYOUT GCALE (traced).json](../SCHEMATICS/1976%20-%20M460A%20-%204-136-06-002%20-%20MOTHERBOARD%20LAYOUT%20GCALE%20(traced).json) (the CAD file: `1976 - M460A - 4-136-06-002 - MOTHERBOARD LAYOUT GCALE (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - 4-136-06-002 - MOTHERBOARD LAYOUT GCALE (traced).json](../SCHEMATICS/1976%20-%20M460A%20-%204-136-06-002%20-%20MOTHERBOARD%20LAYOUT%20GCALE%20%28traced%29.json) (the CAD file: `1976 - M460A - 4-136-06-002 - MOTHERBOARD LAYOUT GCALE (traced).dxf`).
 
 ## Full text
 

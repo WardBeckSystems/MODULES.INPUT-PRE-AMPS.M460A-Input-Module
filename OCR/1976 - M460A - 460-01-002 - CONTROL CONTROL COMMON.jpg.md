@@ -27,7 +27,7 @@ Wiki page: [M460A](../../../../PAGES/M460A.md)
 - **Title block:** (143, 5)–(384, 57) mm: ISS MOD   CKD · USED ON · MATL · WBS WARD-BECK BYSTEMS LTD · 3540 · DRN. DnM · M46O A · FINISH · DATE 8 DEC 76 · INPUT · CKD · Reel · ISCALE · FUNCTIONAL DIAGRAM · TOLS · 460 = 01-002
 - **Wiring (first pass):** 175 connected wire groups from 372 runs; labelled ends: 162 mm → PFL; 154 mm → PRE /Post, PRE, PosT; 119 mm → CONTROL; 77 mm → PHASE, ON; 53 mm → 8-109, PRE /Post
 
-Every curve, box, word and wire group: [1976 - M460A - 460-01-002 - CONTROL CONTROL COMMON (traced).json](../SCHEMATICS/1976%20-%20M460A%20-%20460-01-002%20-%20CONTROL%20CONTROL%20COMMON%20(traced).json) (the CAD file: `1976 - M460A - 460-01-002 - CONTROL CONTROL COMMON (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - 460-01-002 - CONTROL CONTROL COMMON (traced).json](../SCHEMATICS/1976%20-%20M460A%20-%20460-01-002%20-%20CONTROL%20CONTROL%20COMMON%20%28traced%29.json) (the CAD file: `1976 - M460A - 460-01-002 - CONTROL CONTROL COMMON (traced).dxf`).
 
 ## Full text
 

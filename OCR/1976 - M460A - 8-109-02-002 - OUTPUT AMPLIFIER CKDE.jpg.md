@@ -23,7 +23,7 @@ Wiki page: [M460A](../../../../PAGES/M460A.md)
 - **Title block:** (346, 0)–(432, 42) mm: DATE · WBS WARD-BeCK BybTeB · 109 · ENG Mrw4/79 · OUtput AMPLIFIER · SCHEMATIC · SCALE · 8-109-02-002
 - **Wiring (first pass):** 53 connected wire groups from 371 runs; labelled ends: 200 mm → 2N4037, R2s, 4k7; 168 mm → 396, cio, 4.7p, I7p; 154 mm → R3o, V2 w, R34, R3i; 152 mm → R32, Y2 w, R35, I7p; 146 mm → IBv, 10/25
 
-Every curve, box, word and wire group: [1976 - M460A - 8-109-02-002 - OUTPUT AMPLIFIER CKDE (traced).json](../SCHEMATICS/1976%20-%20M460A%20-%208-109-02-002%20-%20OUTPUT%20AMPLIFIER%20CKDE%20(traced).json) (the CAD file: `1976 - M460A - 8-109-02-002 - OUTPUT AMPLIFIER CKDE (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - 8-109-02-002 - OUTPUT AMPLIFIER CKDE (traced).json](../SCHEMATICS/1976%20-%20M460A%20-%208-109-02-002%20-%20OUTPUT%20AMPLIFIER%20CKDE%20%28traced%29.json) (the CAD file: `1976 - M460A - 8-109-02-002 - OUTPUT AMPLIFIER CKDE (traced).dxf`).
 
 ## Full text
 

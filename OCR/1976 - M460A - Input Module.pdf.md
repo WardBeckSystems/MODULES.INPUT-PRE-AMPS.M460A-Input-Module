@@ -26,7 +26,7 @@ Wiki page: [M460A](../../../../PAGES/M460A.md)
 - **Words (OCR):** 15 in 10 lines: WAAD-BECK SYsTeMS LTD_ · WBS 841 PAOGRESS AVENUE; SCARBOROUGH; ONTAAIO M1H2xa · TELEX: 06-23469 · TELEPHONE: 416/438-6550 · MA6OA · MODULE · INPUT · DESIGN AND MANUFACTUAE · Of PPOFESSIONAL · ALDIO EQUIPMENT
 - **Title block:** (47, 388)–(268, 424) mm: WAAD-BECK SYsTeMS LTD_ · WBS 841 PAOGRESS AVENUE; SCARBOROUGH; ONTAAIO M1H2xa · TELEX: 06-23469 · TELEPHONE: 416/438-6550
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p1 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p1%20(traced).json) (the CAD file: `1976 - M460A - Input Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p1 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p1%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -36,7 +36,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p1 (traced).
 - **Words (OCR):** 113 in 82 lines: WARD-BECK systems LTD_ · 0F CONTENTS · IABLE · M460a · InPUT · MODULE · PAGE · SECTION · Warranty · Technica] Data · 1-1 to · 1-2
 - **Title block:** (17, 34)–(293, 422) mm: WARD-BECK systems LTD_ · 0F CONTENTS · IABLE · M460a · InPUT · MODULE · PAGE · SECTION · Warranty · Technica] Data · 1-1 to · 1-2 · Description · 2 - 1 t0 · 2 -5 · circuit · Equalizer Frequency · Resp
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p2 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p2%20(traced).json) (the CAD file: `1976 - M460A - Input Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p2 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p2%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -47,7 +47,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p2 (traced).
 - **Words (OCR):** 160 in 93 lines: WAAD-BECK systems LTD; · IECHNICAL · DATA · M4604 InPut · MODULE · Input · Sensitivities: · Line: · -20 to · +10 dBm · (ref 600 o hm source ) · Mic Pad
 - **Title block:** (19, 397)–(128, 422) mm: WAAD-BECK systems LTD;
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p3 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p3%20(traced).json) (the CAD file: `1976 - M460A - Input Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p3 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p3%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -56,7 +56,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p3 (traced).
 - **Outlines:** line 22 rings, 530 straight (2,942 mm) / 54 curved (87.3 mm); text 212 rings, 1,697 straight (2,072 mm) / 405 curved (601 mm)
 - **Words (OCR):** 24 in 16 lines: WAAD-BECK systems LTD · IECHNICAL DATA · M46O4 InPut MODULE · Ambient Temperature: · to · 60 degrees Celsius · Dimens ions : · 1.6" wide · 14 . · 15 " high · 6.5" deep · (41 MI
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p4 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p4%20(traced).json) (the CAD file: `1976 - M460A - Input Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p4 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p4%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -67,7 +67,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p4 (traced).
 - **Words (OCR):** 276 in 132 lines: WARD-BECK · systems LTD; · CIRCUII DESCRIPTION · M460A InPUT · MODULE · The · M4604 is · combination · InPUT/EQUALIZER module , designed · to · accept input s igna 1 $ originating · from either
 - **Title block:** (25, 398)–(135, 422) mm: WARD-BECK · systems LTD;
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p5 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p5%20(traced).json) (the CAD file: `1976 - M460A - Input Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p5 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p5%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -78,7 +78,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p5 (traced).
 - **Dots (junctions):** 2
 - **Words (OCR):** 136 in 105 lines: OUIRD · 3YBTEME · CM · WescaDE · Nab o IRUI_NODLE · throval · Jere · 0ixing · i50/ation Amp MNers They · currecliom giund " · orimar · T4na|
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p6 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p6%20(traced).json) (the CAD file: `1976 - M460A - Input Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p6 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p6%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -89,7 +89,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p6 (traced).
 - **Words (OCR):** 234 in 111 lines: WAAD-BECK systems LTD · CIRCUIT · DESCRIPTION · M460A InPut MODULE · The three · s igna ] s which · Teave the · 4-126 · filter are · "correction · n-Phase 180 degrees out-of-phase with the · signa ] s " either
 - **Title block:** (29, 397)–(138, 422) mm: WAAD-BECK systems LTD
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p7 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p7%20(traced).json) (the CAD file: `1976 - M460A - Input Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p7 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p7%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -99,7 +99,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p7 (traced).
 - **Dots (junctions):** 1
 - **Words (OCR):** 260 in 102 lines: WAAD-BECK SYstems LTD · CIRCUII_DESCRIPTION · M460a InPUt · MODULE · CHANNEL On Switch · The CHANNEL on switch SW21 contro] s a 11 outputs the · 0 f · module · with the · exception 0 f the · PFL output · FADER
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p8 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p8%20(traced).json) (the CAD file: `1976 - M460A - Input Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p8 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p8%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -109,7 +109,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p8 (traced).
 - **Words (OCR):** 120 in 55 lines: WARD-BECK SYSTems LTD · CIRCUIT DESCRIPIION · M46Q4 InPUT · MODULE · externa] mute contro] · functions · independently for both · microphone and Tine sources · be · required in · particular · may
 - **Title block:** (26, 397)–(135, 421) mm: WARD-BECK SYSTems LTD
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p9 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p9%20(traced).json) (the CAD file: `1976 - M460A - Input Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p9 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p9%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -119,7 +119,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p9 (traced).
 - **Closed boxes:** 132
 - **Words (OCR):** 41 in 26 lines: WAAD-BECK SYSTEms LTD · FREOUEnCY RESPONSE · CHARACTERISTICS · M460a InPUt MODULE · EQUALIZER · OdB · LOW_FREQUENCY section · cut/boost: +15 · dB · FREQUEnCY: 25 400 Hz · 20Hz · IQDHz
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p10 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p10%20(traced).json) (the CAD file: `1976 - M460A - Input Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p10 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p10%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -129,7 +129,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p10 (traced)
 - **Closed boxes:** 109
 - **Words (OCR):** 43 in 32 lines: WAAD-BECK · EREQUENCY_RESPONSE · CHARACIERLSICS · M46oA NPUT_MODULE EQUAL IZER · OdB · MID_FREQUENCY section · Boost: · to · +15 dB · in · dB steps . · FREQUENCY : kHz .
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p11 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p11%20(traced).json) (the CAD file: `1976 - M460A - Input Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p11 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p11%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -138,7 +138,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p11 (traced)
 - **Outlines:** line 123 rings, 991 straight (4,203 mm) / 190 curved (311 mm); text 1,288 rings, 10,019 straight (11,390 mm) / 3,313 curved (5,146 mm)
 - **Words (OCR):** 150 in 129 lines: WARD-BECK Systems LTD · PARTS LIST · M460A InPUt · MODUL E · PART · DESCRIPTION · MFG · MFG PART NUMBER · Capacitor 33 · uF/ 10 · Kemet · T3900336M0104S
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p12 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p12%20(traced).json) (the CAD file: `1976 - M460A - Input Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p12 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p12%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -148,7 +148,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p12 (traced)
 - **Words (OCR):** 101 in 88 lines: WAAD-BECK SYsTEMS LTD · PARIS LIST · M46OA · InPut · MODULE · NUMBER · PART · DESCRIPTION · MFG · MFG PART · C38 · Capacitor 22 uF/25
 - **Title block:** (22, 40)–(251, 422) mm: WAAD-BECK SYsTEMS LTD · PARIS LIST · M46OA · InPut · MODULE · PART · DESCRIPTION · MFG · MFG PART · C38 · Capacitor 22 uF/25 · Siemens · 150 uF/ 6 · Kemet · C39 · C40 · CR] · Diode · Motoro]a · 1n4003
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p13 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p13%20(traced).json) (the CAD file: `1976 - M460A - Input Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p13 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p13%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -158,7 +158,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p13 (traced)
 - **Words (OCR):** 93 in 83 lines: WARD-BECK Systems LTD · PARTS LIST · M4604 InPUT MODULE · PART · DESCRIPIION · MFG · MFG PART · NUMBER · R19 · (Delete · R20 · (De Tete
 - **Title block:** (22, 255)–(248, 421) mm: WARD-BECK Systems LTD · PARTS LIST · M4604 InPUT MODULE · PART · DESCRIPIION · MFG · MFG PART · R19 · (Delete · R20 · (De Tete · R21 · Potentiometer · A/ B · R22 · R23 · R24 · R25 · Potentiometer, qua
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p14 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p14%20(traced).json) (the CAD file: `1976 - M460A - Input Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p14 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p14%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p14 (traced).dxf`).
 
 ### Page 15
 
@@ -169,7 +169,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p14 (traced)
 - **Words (OCR):** 90 in 84 lines: WAAD-BECK Systems LTD. · PARIS LISI · M4604 InPUT · MODULE · DESCRI PTION · MFG · MFG PARI NUMBER · PART · 15k · Philips · R5S · Re sistor
 - **Title block:** (24, 397)–(134, 421) mm: WAAD-BECK Systems LTD.
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p15 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p15%20(traced).json) (the CAD file: `1976 - M460A - Input Module p15 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p15 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p15%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p15 (traced).dxf`).
 
 ### Page 16
 
@@ -179,7 +179,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p15 (traced)
 - **Words (OCR):** 98 in 89 lines: WAAD-BECK SySteMS LTD · PARLS_LISI · M460a InPut MODULE · MFG · MFG PART · NUMBER · PART · DESCRIPTION · Philips · R92 · Resistor · 15k
 - **Title block:** (19, 31)–(242, 420) mm: WAAD-BECK SySteMS LTD · PARLS_LISI · M460a InPut MODULE · MFG · MFG PART · PART · DESCRIPTION · Philips · R92 · Resistor · 15k · R93 · 15k · R94 · 15k · R95 · 15k · R96 · 15k · R97 · (Delete ) · R98 ·
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p16 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p16%20(traced).json) (the CAD file: `1976 - M460A - Input Module p16 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p16 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p16%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p16 (traced).dxf`).
 
 ### Page 17
 
@@ -189,7 +189,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p16 (traced)
 - **Words (OCR):** 83 in 65 lines: WARD-BECK · systems LTD; · PARTS · LIST · M460a · INPUT MODULE · PART · DESCRIPTION · MFG · MFG · PART NUMBER · Sw5
 - **Title block:** (23, 85)–(248, 420) mm: WARD-BECK · systems LTD; · PARTS · LIST · M460a · INPUT MODULE · PART · DESCRIPTION · MFG · MFG · Sw5 · Switch · Schadow · WBS · S16 · SW7 · (Delete ) · SW8 · SWg · Switch · SW1o · (Delete ) · SW1l · 
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p17 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p17%20(traced).json) (the CAD file: `1976 - M460A - Input Module p17 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p17 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p17%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p17 (traced).dxf`).
 
 ### Page 18
 
@@ -198,7 +198,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p17 (traced)
 - **Outlines:** line 45 rings, 648 straight (2,969 mm) / 81 curved (115 mm); text 59 rings, 583 straight (679 mm) / 127 curved (193 mm)
 - **Words (OCR):** 5 in 3 lines: WARD-BECK SYETEmS LTD_ · 8-109 AMPLIFIER SERIES · 8-109
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p18 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p18%20(traced).json) (the CAD file: `1976 - M460A - Input Module p18 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p18 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p18%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p18 (traced).dxf`).
 
 ### Page 19
 
@@ -208,7 +208,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p18 (traced)
 - **Words (OCR):** 207 in 127 lines: WAAD-BECK SYSTEmS LTD_ · 4oja GaAW · DESCRIPIION · AMPLLFIERSERIES · 8-109 · The 8-109 · series o f · amplifiers are · utilized · an · interna] · component within various
 - **Title block:** (20, 311)–(161, 430) mm: WAAD-BECK SYSTEmS LTD_ · 8-109 · The 8-109 · series o f · amplifiers are · component within various · Each 8-109 · amplifier mounts a5
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p19 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p19%20(traced).json) (the CAD file: `1976 - M460A - Input Module p19 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p19 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p19%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p19 (traced).dxf`).
 
 ### Page 20
 
@@ -219,7 +219,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p19 (traced)
 - **Words (OCR):** 252 in 114 lines: WARD-BECK SYSTEMS LTD_ · OTJ · DESCRIPTION · 8-109 AMPLIFIER · SERIES · Output Impedance: · Less than · 100 ohms 44 = · Load · Impedance:  600 ohms · ba ]anced_ · Output
 - **Title block:** (24, 404)–(152, 429) mm: WARD-BECK SYSTEMS LTD_
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p20 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p20%20(traced).json) (the CAD file: `1976 - M460A - Input Module p20 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p20 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p20%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p20 (traced).dxf`).
 
 ### Page 21
 
@@ -229,7 +229,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p20 (traced)
 - **Dots (junctions):** 1
 - **Words (OCR):** 32 in 15 lines: WARO-BECK BYSTEms LTD. · DESCRIPTION · 8-109 · AMPLLELER_SERIES · inverting amplifier with El externally strapped E6 _ · to · The output 0 f a 11 · mode ]s 0 f · the 8- 109 series is · actively · ba lanced and is · Pins E4 and
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p21 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p21%20(traced).json) (the CAD file: `1976 - M460A - Input Module p21 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p21 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p21%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p21 (traced).dxf`).
 
 ### Page 22
 
@@ -239,7 +239,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p21 (traced)
 - **Closed boxes:** 13
 - **Words (OCR):** 107 in 94 lines: WAAD-BECK SYSTems LTD · 4a3a · DAAW · PARIS LIST · 8-109 AMPLLFLER_SERIES · 8-109 · PART DESCRIPILON · MFG · MFG · PARI_NUMBER · C1 · Capacitor 33 uF/ 10
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p22 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p22%20(traced).json) (the CAD file: `1976 - M460A - Input Module p22 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p22 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p22%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p22 (traced).dxf`).
 
 ### Page 23
 
@@ -249,7 +249,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p22 (traced)
 - **Closed boxes:** 16
 - **Words (OCR):** 99 in 92 lines: WAAD-BECK SYSTems LTD_ · PARIS LIST · 8-109 · AMPLIFIERSERIES · 8-109 · DESCRIPIION · MEG · MFG PART · NUMBER · PARI · Philips · R4  Resistor
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p23 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p23%20(traced).json) (the CAD file: `1976 - M460A - Input Module p23 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p23 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p23%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p23 (traced).dxf`).
 
 ### Page 24
 
@@ -261,7 +261,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p23 (traced)
 - **Words (OCR):** 101 in 85 lines: WAAD-BECK · Systems LTD · PARTS · LISI · 8-109 · AMPLLFLER_SERIES · 8-109 · 29 · 490 · PART DESCRIPIION · MFG · MFG PART_NUMBER
 - **Title block:** (22, 402)–(132, 426) mm: WAAD-BECK · Systems LTD
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p24 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p24%20(traced).json) (the CAD file: `1976 - M460A - Input Module p24 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p24 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p24%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p24 (traced).dxf`).
 
 ### Page 25
 
@@ -272,7 +272,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p24 (traced)
 - **Words (OCR):** 104 in 81 lines: WARD-BECK Systems LTD; · PARIS_LISI · 8-109 AMPLLFIER_SERIES · 8-109C · 20-2 · A11 · parts · per · 8-109 except noted below · PARI DESCRIPTION · MEG · LMEG_PARL_NUMBER
 - **Title block:** (23, 404)–(134, 428) mm: WARD-BECK Systems LTD;
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p25 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p25%20(traced).json) (the CAD file: `1976 - M460A - Input Module p25 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p25 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p25%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p25 (traced).dxf`).
 
 ### Page 26
 
@@ -283,7 +283,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p25 (traced)
 - **Words (OCR):** 71 in 47 lines: WAAD-BECK SYSTems LTD; · PARIS LIST · 8-109 · AMPLLELER_SERIES · 8-109E · A11 parts as per · 8-109 except as · noted · be ow · PARI DESCRIPIION · MFG · MFG
 - **Title block:** (22, 60)–(152, 427) mm: WAAD-BECK SYSTems LTD; · 8-109 · 8-109E · A11 parts as per · 8-109 except as · PARI DESCRIPIION · C6 · Capacitor 4.7 pF · C11 · R15 · Resistor %h · 510 · 8-109G · A1I parts · per · 8-109 except as · P
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p26 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p26%20(traced).json) (the CAD file: `1976 - M460A - Input Module p26 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p26 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p26%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p26 (traced).dxf`).
 
 ### Page 27
 
@@ -293,7 +293,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p26 (traced)
 - **Words (OCR):** 8 in 5 lines: WAAD-BECK systems LTD · 4-110 · PREAMP /HIGH-PASS FILTER · ISSUE · SEPTEMBER 1983
 - **Title block:** (22, 46)–(255, 427) mm: WAAD-BECK systems LTD · 4-110 · PREAMP /HIGH-PASS FILTER · ISSUE
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p27 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p27%20(traced).json) (the CAD file: `1976 - M460A - Input Module p27 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p27 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p27%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p27 (traced).dxf`).
 
 ### Page 28
 
@@ -304,7 +304,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p27 (traced)
 - **Words (OCR):** 204 in 109 lines: WAAD-BECK · LTD · CIRcuiT DESCRIPTION · 4-110 · PREAMP /HIGH-PASS FILTER · 4-110 · preamplifier is · printed circuit board · be · The · designed to · used as an
 - **Title block:** (22, 313)–(218, 427) mm: WAAD-BECK · LTD · CIRcuiT DESCRIPTION · 4-110 · PREAMP /HIGH-PASS FILTER · 4-110 · preamplifier is · printed circuit board · The · used as an · internal component · of the · Preceding the · module ser
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p28 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p28%20(traced).json) (the CAD file: `1976 - M460A - Input Module p28 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p28 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p28%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p28 (traced).dxf`).
 
 ### Page 29
 
@@ -314,7 +314,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p28 (traced)
 - **Closed boxes:** 565; named: OF RANGE CONTROL
 - **Words (OCR):** 27 in 23 lines: WARD-BECK · LTD; · FILTER · CHARACTERISTICS · 4-110 PREAMP /HIGH-PASS · FILTER · ~10 · RANGE · OF · 20 · CONTROL · 530
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p29 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p29%20(traced).json) (the CAD file: `1976 - M460A - Input Module p29 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p29 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p29%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p29 (traced).dxf`).
 
 ### Page 30
 
@@ -325,7 +325,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p29 (traced)
 - **Words (OCR):** 124 in 108 lines: WAAD-BECK · systems LTD; · PARTS LiST · 4-110 · PREAMP/HIGH-PASS FILTER · MFG PART · NUMBER · PART · DESCRIPTION · MFG · Philips · 2222-630-03561
 - **Title block:** (26, 403)–(135, 428) mm: WAAD-BECK · systems LTD;
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p30 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p30%20(traced).json) (the CAD file: `1976 - M460A - Input Module p30 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p30 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p30%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p30 (traced).dxf`).
 
 ### Page 31
 
@@ -335,7 +335,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p30 (traced)
 - **Words (OCR):** 50 in 33 lines: WARD-BECK SYSTems LTD · PARTS LiST · 4-110 · PREAMP/HIGH-PASS · FILTER · PART DESCRIPTION · MFG · MFG PART NUMBER · 1/4w · Philips · RIL · Resistor
 - **Title block:** (28, 54)–(137, 427) mm: WARD-BECK SYSTems LTD · 4-110 · PART DESCRIPTION · 1/4w · RIL · Resistor · R15 · R16 · 2i · Integrated Circuit · Selected t0 · WBS recommends the usc · manufacturers for continued
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p31 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p31%20(traced).json) (the CAD file: `1976 - M460A - Input Module p31 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p31 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p31%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p31 (traced).dxf`).
 
 ### Page 32
 
@@ -345,7 +345,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p31 (traced)
 - **Words (OCR):** 9 in 5 lines: WAAD-BECK SYSTEMS LTD · 4-126 · EQUAL IZER FILTER AMPLIFIER · ISSUE · SEPTEMBER 1983
 - **Title block:** (20, 43)–(258, 432) mm: WAAD-BECK SYSTEMS LTD · 4-126 · EQUAL IZER FILTER AMPLIFIER · ISSUE
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p32 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p32%20(traced).json) (the CAD file: `1976 - M460A - Input Module p32 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p32 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p32%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p32 (traced).dxf`).
 
 ### Page 33
 
@@ -355,7 +355,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p32 (traced)
 - **Words (OCR):** 239 in 104 lines: SYSTEMS LTD · WARD-BECK · CiRcuIT DESCRIPTION · 4-126 EQUAL IZER · FILTER AMPLIFIER · The 4-126 equalizer filter · amplifier is · circuit board · printed · utilized as an · internal component · in certain WBS 460 series
 - **Title block:** (19, 183)–(265, 432) mm: SYSTEMS LTD · WARD-BECK · CiRcuIT DESCRIPTION · 4-126 EQUAL IZER · FILTER AMPLIFIER · The 4-126 equalizer filter · amplifier is · printed · utilized as an · internal component · in certain WBS 460 ser
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p33 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p33%20(traced).json) (the CAD file: `1976 - M460A - Input Module p33 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p33 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p33%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p33 (traced).dxf`).
 
 ### Page 34
 
@@ -364,7 +364,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p33 (traced)
 - **Outlines:** line 68 rings, 1,029 straight (3,893 mm) / 126 curved (192 mm); text 1,375 rings, 9,775 straight (10,880 mm) / 3,137 curved (4,963 mm)
 - **Words (OCR):** 165 in 130 lines: WAAD-BECK SYSTems LTD · PARTS LiST · AMPLIFIER · 4-126 EQUALIZER FILTER · PART DESCRIPTION · MFG · MFG · PART NUMBER · C1 · Capacitor · 6 .8 uF/6 · Kemet
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p34 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p34%20(traced).json) (the CAD file: `1976 - M460A - Input Module p34 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p34 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p34%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p34 (traced).dxf`).
 
 ### Page 35
 
@@ -373,7 +373,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p34 (traced)
 - **Outlines:** line 150 rings, 1,422 straight (4,116 mm) / 253 curved (388 mm); text 455 rings, 3,553 straight (4,080 mm) / 1,093 curved (1,682 mm)
 - **Words (OCR):** 92 in 82 lines: PARTS LIST · 4-126 EQUALIZER FICTER AMPLIFIER · MFG · MFG · PART NUMBER · PART DESCR IPTION · R1 · Resistor · 1/Lw 5% 10k · Philips · R2 · 10K
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p35 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p35%20(traced).json) (the CAD file: `1976 - M460A - Input Module p35 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p35 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p35%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p35 (traced).dxf`).
 
 ### Page 36
 
@@ -383,7 +383,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p35 (traced)
 - **Words (OCR):** 62 in 46 lines: WAAD-BECK Systems LTD · PARTS LiST · 4-126 EQUAL IZER FILTER · AMPLIFIER · PART DESCRIPTION · MFG PART · NUMBER · MFG · R45 · Philips · Resistor · 1/4w59 6K2
 - **Title block:** (23, 48)–(135, 432) mm: WAAD-BECK Systems LTD · PART DESCRIPTION · R45 · Resistor · 1/4w59 6K2 · R46 · delete · R47 · Resistor · 1/4w5% 1m · R48 · R49 · R5O · delete · 21 · Integrated circuit · 22 · 23 · 25 · 26 · 27 · WBS r
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p36 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p36%20(traced).json) (the CAD file: `1976 - M460A - Input Module p36 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p36 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p36%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p36 (traced).dxf`).
 
 ### Page 37
 
@@ -396,7 +396,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p36 (traced)
 - **Words (OCR):** 195 in 159 lines: SELECTOR swi Ech Sw · crcphane Jirect mucrcohant · sOurcc · M4604 · Feed. · (PAD OFF · PHASE · wner · Ehi ; · sritch wi · #igh · Enepe cer
 - **Title block:** (350, 0)–(432, 35) mm: WBS WARD-BeCk SYSTEms · M460A · Ruh · INPUT MODULE · FRONT · PANEL · SCALE · ISSUE · 460-04-008
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p37 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p37%20(traced).json) (the CAD file: `1976 - M460A - Input Module p37 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p37 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p37%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p37 (traced).dxf`).
 
 ### Page 38
 
@@ -410,7 +410,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p37 (traced)
 - **Title block:** (143, 4)–(384, 57) mm: Iss MOD  CKD. · USED ON · MATL · WBS WARD-BeCK BYSTEMS LTD_ · 3540 · DRN DNM · M46OA · FINISH · DATE 8 DEC 76 · INPUT MODULE · CKDReel · FUNCTIONAL DIAGRAM · SCALE · TOLS_ · 460 _ 01-002
 - **Wiring (first pass):** 171 connected wire groups from 380 runs; labelled ends: 162 mm → PFL; 126 mm → PRE /Post; 119 mm → CONTROL; 59 mm → PAN, INSERT, DIRECT OUTPut; 53 mm → 8-109, PRE /Post
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p38 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p38%20(traced).json) (the CAD file: `1976 - M460A - Input Module p38 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p38 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p38%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p38 (traced).dxf`).
 
 ### Page 39
 
@@ -424,7 +424,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p38 (traced)
 - **Words (OCR):** 9 in 9 lines: 77 · RjLO · 82-1' · NOTES · 4ors · P EFR · 705 · Coutvo- · 4c
 - **Wiring (first pass):** 180 connected wire groups from 1,189 runs, 1 dotted junctions; labelled ends: 77 mm → 82-1'; 71 mm → 77; 24 mm → 82-1'; 18 mm → 705; 17 mm → 4c
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p39 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p39%20(traced).json) (the CAD file: `1976 - M460A - Input Module p39 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p39 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p39%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p39 (traced).dxf`).
 
 ### Page 40
 
@@ -437,7 +437,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p39 (traced)
 - **Words (OCR):** 168 in 129 lines: Szw · Rios · Swis Swia Swi3 · Swnol Sw? · OTHEP · OTHER · SWG Sws Sw4 · Sh3 · Sw2 · Side · Side · Rio
 - **Title block:** (348, 15)–(411, 31) mm: WBS WARD Beck BYATEmb LTD · DAN · M460_
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p40 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p40%20(traced).json) (the CAD file: `1976 - M460A - Input Module p40 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p40 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p40%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p40 (traced).dxf`).
 
 ### Page 41
 
@@ -448,7 +448,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p40 (traced)
 - **Words (OCR):** 162 in 119 lines: P2 · Mic · MIC · NC · NC · NC · MIC SHIELD · GND · GND · PA · PA · LEFT OUT
 - **Title block:** (142, 4)–(422, 56) mm: Iss MOD.  CKD · USED OM · MATL_ · WES WARD-BECK SYSTEMS LTD · 37131520 · DRN: · ML6OA · FIMISH · DATE JAN 77 · NPUT MODULE · CKD · CONNECTOR REAR VIEW · SCALE · TOLS · ISS_ · 460-04-004
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p41 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p41%20(traced).json) (the CAD file: `1976 - M460A - Input Module p41 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p41 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p41%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p41 (traced).dxf`).
 
 ### Page 42
 
@@ -459,7 +459,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p41 (traced)
 - **Words (OCR):** 96 in 89 lines: E3 · +i8 v · C3 · 390 · iolzs · Ri7 · Ris · 4k7 · 22 · 32 · Ph3C45 · 202102
 - **Title block:** (348, 0)–(432, 41) mm: Date · WBS WA RD-BECK ByotemB · 8 -10? · CKD: Rul · BOOSTER AMPLIFIER · ScHEMATiC · SCALE · ISSUE · -109 02-001
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p42 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p42%20(traced).json) (the CAD file: `1976 - M460A - Input Module p42 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p42 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p42%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p42 (traced).dxf`).
 
 ### Page 43
 
@@ -471,7 +471,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p42 (traced)
 - **Words (OCR):** 110 in 101 lines: 0E7 · E2 · ~Ci33/12 · 33/1 · E16 · ~RIG 22k · 441k · R2_ · 47k · ~Ri8 2ek · RS · GK2
 - **Title block:** (133, 2)–(432, 135) mm: WBS · ES · 8-109 · z2o/i2c16+ · Ielul 84 · Ecol93 4047 · ~R36 4k7 · ~R374k7 · 4008 · ISSUE |DATE · REVISION · APP · EG · WBS WARD-BECK SYSTEMS · DRN. GEB · 8 ~ 109 · ENG.MRW 4/78 · BOOSTER AMPLIFIER ·
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p43 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p43%20(traced).json) (the CAD file: `1976 - M460A - Input Module p43 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p43 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p43%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p43 (traced).dxf`).
 
 ### Page 44
 
@@ -485,7 +485,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p43 (traced)
 - **Title block:** (351, 0)–(422, 42) mm: Issu Date · revision · WBS · 8 - 109 · Output AMPLIFIER · SCHEMATiC · SCALE · 8-109-02-002
 - **Wiring (first pass):** 60 connected wire groups from 396 runs; labelled ends: 202 mm → R2s, 4k7; 170 mm → 8k, cic, 4.7p; 154 mm → Rzo, V2 w, R34, R3; 152 mm → R32, 6.8, V2 w, R35; 145 mm → Lf3s6, T8v, c4, 10/2s
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p44 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p44%20(traced).json) (the CAD file: `1976 - M460A - Input Module p44 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p44 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p44%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p44 (traced).dxf`).
 
 ### Page 45
 
@@ -497,7 +497,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p44 (traced)
 - **Words (OCR):** 112 in 99 lines: E2 · Eie ~ci · 33/10 #C2 · 23/6 · ~Cb-8p ~RI6 22k · ~Ri #41K CR2 · 47k · 22k · RS 30K · ~Ris · ~R2z 4K7 · R2i 4K7
 - **Title block:** (147, 2)–(432, 143) mm: ES6 · WBS · 8-109 · zzolec16 - · ~ci5+ · 22o/0 · ~~R374K7 · ISSUE DATE · REVISION · APPE · E6 · WBS WARD-BECK SYBTEMS · DRN: GEB · 8 = 109A · ENG.MRW 4/78 · OUTPUT · AMPLIFIER · CKDRr4 · COMPONENT LAY
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p45 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p45%20(traced).json) (the CAD file: `1976 - M460A - Input Module p45 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p45 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p45%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p45 (traced).dxf`).
 
 ### Page 46
 
@@ -511,7 +511,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p45 (traced)
 - **Title block:** (140, 5)–(383, 58) mm: RIG,Ci6,05,21 · ISS MOD  CKD: · USED ON · MATL_ · 4410 · WBS WARD-BECK SYSTEMB LTD_ · laodk · Ro · 4-110 · FINISH · 8MARZ4 · PRE-AMP/HP FILTER · CKD · 14 · Jiuv · Rc · SCHEMATIC · SCALE · TOLS
 - **Wiring (first pass):** 58 connected wire groups from 286 runs; labelled ends: 661 mm → R2, 2N5209, Itcie, RA; 339 mm → C12, 33/10, Q4, 2N4403; 286 mm → 028, *C1O, Ris, 470k; 218 mm → COMPONENT, E9, -21v; 206 mm → Ru, 1k5, RI2, 150
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p46 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p46%20(traced).json) (the CAD file: `1976 - M460A - Input Module p46 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p46 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p46%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p46 (traced).dxf`).
 
 ### Page 47
 
@@ -523,7 +523,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p46 (traced)
 - **Words (OCR):** 38 in 31 lines: 28 · 339K · 248 · 8383 · 22/12 · 467 · 470k · 33/18 · NQTES · ComponenTs Ce,C9, Cio SELECTED · To · PRiOR
 - **Title block:** (283, 3)–(388, 50) mm: WBS WARD-BECK · DRN · 4-110 · DatE_IOJUNZ · PRE-AMP/HP FILTER · CKD · COMPONENT LAYOUT · SCALE · TOLs · 4-110-06-001
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p47 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p47%20(traced).json) (the CAD file: `1976 - M460A - Input Module p47 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p47 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p47%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p47 (traced).dxf`).
 
 ### Page 48
 
@@ -538,7 +538,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p47 (traced)
 - **Title block:** (347, 14)–(411, 31) mm: WBS · WAAD-BeCK BYBTEMD LTD · 223 · 4-126
 - **Wiring (first pass):** 101 connected wire groups from 763 runs, 2 dotted junctions; labelled ends: 313 mm → USEd OH, WBS; 194 mm → R33, 6k2, 210, '023; 179 mm → iop; 122 mm → 317, 22<, 313, 218; 107 mm → RA, 221, 773/6
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p48 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p48%20(traced).json) (the CAD file: `1976 - M460A - Input Module p48 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p48 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p48%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p48 (traced).dxf`).
 
 ### Page 49
 
@@ -550,7 +550,7 @@ Every curve, box, word and wire group: [1976 - M460A - Input Module p48 (traced)
 - **Words (OCR):** 81 in 72 lines: E3 · E2 · C6 · 25 · R2o · R1?cig C18 · C21 R2i R14 · R24 · R18 · R3 · E4 · 21
 - **Title block:** (170, 2)–(423, 53) mm: ISS NOo [cKD · USED_Oh · WBS · WAAD-DECk systems · BD · Dm · 4-126 · ML · MIMISH · EQUALIZER FILTER · ckd · COMPONENTASSEMBLY · SCALE · TOLS · 4-126-06-001
 
-Every curve, box, word and wire group: [1976 - M460A - Input Module p49 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p49%20(traced).json) (the CAD file: `1976 - M460A - Input Module p49 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - Input Module p49 (traced).json](../MANUALS/1976%20-%20M460A%20-%20Input%20Module%20p49%20%28traced%29.json) (the CAD file: `1976 - M460A - Input Module p49 (traced).dxf`).
 
 ## Full text
 

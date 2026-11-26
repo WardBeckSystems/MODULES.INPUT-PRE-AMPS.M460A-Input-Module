@@ -36,7 +36,7 @@ Wiki page: [M460A](../../../../PAGES/M460A.md)
 - **Title block:** (348, 0)–(432, 35) mm: DAE · WBS WAAD-BECK BybtenB · 8 ~ 109 · CKD: Rul · BOOSTER AMPLiFIER · SCHEMATIC · SCALE · 109-02-001
 - **Wiring (first pass):** 57 connected wire groups from 390 runs; labelled ends: 205 mm → E3, Ri7, 4k7, Ris; 193 mm → 2N4037, R2s, 4K7, 390; 189 mm → R32, 6.8, R35, 22o/10; 162 mm → R3, 6k2, RB, i8k; 149 mm → R3o, R34, 5-6, R3i
 
-Every curve, box, word and wire group: [1978 - 8-109-02-001 - BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/1978%20-%208-109-02-001%20-%20BOOSTER%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20MRW%20-%20ISS%201%20(traced).json) (the CAD file: `1978 - 8-109-02-001 - BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 8-109-02-001 - BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/1978%20-%208-109-02-001%20-%20BOOSTER%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1978 - 8-109-02-001 - BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 

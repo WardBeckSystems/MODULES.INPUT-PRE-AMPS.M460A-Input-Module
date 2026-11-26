@@ -36,7 +36,7 @@ Wiki page: [M460A](../../../../PAGES/M460A.md)
 - **Title block:** (350, 0)–(432, 36) mm: WBS WARD-BECK bybteMB · 109 · OVtput AMPLIFIER · SCHEMATIC · SCALE · 8-109-02-002
 - **Wiring (first pass):** 55 connected wire groups from 368 runs; labelled ends: 202 mm → 4j0, R2s, 4k7; 184 mm → 470, 4-Tp, 620k; 167 mm → 396, I8K, cio, 4.7p; 153 mm → R3o, V2 w, R34, 5-6; 153 mm → R32, 08, Y2 w, R35
 
-Every curve, box, word and wire group: [1978 - 8-109-02-002 - 8-109A OUTPUT AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/1978%20-%208-109-02-002%20-%208-109A%20OUTPUT%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20MRW%20-%20ISS%201%20(traced).json) (the CAD file: `1978 - 8-109-02-002 - 8-109A OUTPUT AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 8-109-02-002 - 8-109A OUTPUT AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/1978%20-%208-109-02-002%20-%208-109A%20OUTPUT%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1978 - 8-109-02-002 - 8-109A OUTPUT AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 

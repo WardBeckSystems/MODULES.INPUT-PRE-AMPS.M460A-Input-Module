@@ -21,7 +21,7 @@ Wiki page: [M460A](../../../../PAGES/M460A.md)
 - **Words (OCR):** 109 in 99 lines: 0e7 · E2 · ~CI33/10 +C2 · 23/0 · ~c8-8p · LRi · 47k · 22k · 30k · ~Ri8 · R5 · 4k7
 - **Title block:** (147, 3)–(432, 143) mm: WBS · 8-109 · 2zolecl6 - · 22o/6 · ~Cis · ~~R374K7 · 4k7 · (ISSUE DATE · REVISION · APP_ · E6 · WBS WARD-BECK SYBTEMS · DRN: GEB · 8 = 109A · ENG.MRW 4l78 · OUTPUT AMPLIFIER · CKD Ra · COMPONENT LAYOU
 
-Every curve, box, word and wire group: [1976 - M460A - 8-109-06-002 - OUTPUT AMPLIFIER (traced).json](../SCHEMATICS/1976%20-%20M460A%20-%208-109-06-002%20-%20OUTPUT%20AMPLIFIER%20(traced).json) (the CAD file: `1976 - M460A - 8-109-06-002 - OUTPUT AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - 8-109-06-002 - OUTPUT AMPLIFIER (traced).json](../SCHEMATICS/1976%20-%20M460A%20-%208-109-06-002%20-%20OUTPUT%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1976 - M460A - 8-109-06-002 - OUTPUT AMPLIFIER (traced).dxf`).
 
 ## Full text
 

@@ -24,7 +24,7 @@ Wiki page: [M460A](../../../../PAGES/M460A.md)
 - **Words (OCR):** 162 in 115 lines: P2 · Mic · Mic · NC · NC · NC · MIC SHIELD · GND · GND · PA · PA · LEFT OUT
 - **Title block:** (142, 4)–(421, 56) mm: Inss MOD CKD · USED ON · MATL · WBS WARD-BECK SYSTEMS LTD · 12o32/E < · 37B152E, < · DRN Ef · M460A · FINISH · DATE JAN 77 · NPUT MODULE · CKD · CONNECTOR REAR VIEW · SCALE · TOLS_ · ISS_ · 460-04-004
 
-Every curve, box, word and wire group: [1977 - M460A - 460-04-004 - KYYS CONNECTOR REAR VIEW (traced).json](../PINOUTS/1977%20-%20M460A%20-%20460-04-004%20-%20KYYS%20CONNECTOR%20REAR%20VIEW%20(traced).json) (the CAD file: `1977 - M460A - 460-04-004 - KYYS CONNECTOR REAR VIEW (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M460A - 460-04-004 - KYYS CONNECTOR REAR VIEW (traced).json](../PINOUTS/1977%20-%20M460A%20-%20460-04-004%20-%20KYYS%20CONNECTOR%20REAR%20VIEW%20%28traced%29.json) (the CAD file: `1977 - M460A - 460-04-004 - KYYS CONNECTOR REAR VIEW (traced).dxf`).
 
 ## Full text
 

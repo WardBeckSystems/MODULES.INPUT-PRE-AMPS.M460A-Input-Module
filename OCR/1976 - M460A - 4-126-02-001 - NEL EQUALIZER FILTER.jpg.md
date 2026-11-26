@@ -22,7 +22,7 @@ Wiki page: [M460A](../../../../PAGES/M460A.md)
 - **Words (OCR):** 113 in 101 lines: 25 <Az · ACC -: · 35 · 83 :22 · 22 · 36 · c3i6 · 22 · 23/6 · ooop · 34 · 68p
 - **Wiring (first pass):** 106 connected wire groups from 738 runs; labelled ends: 469 mm → LTD, 3047, 253, WES; 194 mm → R33, 6<2, '025, +2iv; 191 mm → 31, I0 P; 105 mm → 83; 105 mm → 345, 642, 242, C43
 
-Every curve, box, word and wire group: [1976 - M460A - 4-126-02-001 - NEL EQUALIZER FILTER (traced).json](../SCHEMATICS/1976%20-%20M460A%20-%204-126-02-001%20-%20NEL%20EQUALIZER%20FILTER%20(traced).json) (the CAD file: `1976 - M460A - 4-126-02-001 - NEL EQUALIZER FILTER (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460A - 4-126-02-001 - NEL EQUALIZER FILTER (traced).json](../SCHEMATICS/1976%20-%20M460A%20-%204-126-02-001%20-%20NEL%20EQUALIZER%20FILTER%20%28traced%29.json) (the CAD file: `1976 - M460A - 4-126-02-001 - NEL EQUALIZER FILTER (traced).dxf`).
 
 ## Full text
 

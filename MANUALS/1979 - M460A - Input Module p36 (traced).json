@@ -1,0 +1,82 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460A/MANUALS/1979 - M460A - Input Module.pdf",
+ "page": 36,
+ "version": 1,
+ "trace": "_traces/d7eb8ba368a6a6cb-p36.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "36", "pages": "49"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 325.1, 423.2],
+ "outlines": {
+  "line": {"rings": 290, "straight": {"n": 2829, "mm": 5958.0}, "curved": {"n": 643, "mm": 1015.5}},
+  "text": {"rings": 347, "straight": {"n": 2413, "mm": 2697.6}, "curved": {"n": 572, "mm": 906.6}}
+ },
+ "circles": [
+  {"c": [112.1, 335.8], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [201.5, 268.1], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 76,
+  "lines": [
+   {"mm": [31.5, 416.9, 50.5, 422.2], "text": "WAR"},
+   {"mm": [68.0, 416.9, 146.8, 422.2], "text": "ECK SYS TE MS LTD"},
+   {"mm": [163.7, 372.0, 189.3, 377.8], "text": "TS IST"},
+   {"mm": [107.7, 359.3, 233.4, 364.3], "text": "4-1 26 EQUA LIZER FIL TER AMP LIFI ER"},
+   {"mm": [76.0, 332.5, 119.0, 337.5], "text": "OESCRI PTI ON"},
+   {"mm": [47.3, 319.1, 58.3, 324.1], "text": "R4S"},
+   {"mm": [76.0, 319.1, 102.6, 324.1], "text": "Re si stor"},
+   {"mm": [113.8, 319.1, 123.5, 324.1], "text": "IoW"},
+   {"mm": [126.1, 318.7, 134.3, 325.9], "text": "sS"},
+   {"mm": [186.8, 319.1, 210.7, 324.1], "text": "Philips"},
+   {"mm": [47.3, 312.4, 57.2, 317.4], "text": "R46"},
+   {"mm": [76.0, 312.4, 94.8, 317.4], "text": "dele te"},
+   {"mm": [76.2, 296.2, 121.8, 304.6], "text": "Resi,~tor 4W"},
+   {"mm": [47.3, 298.8, 57.4, 303.8], "text": "RO?"},
+   {"mm": [126.1, 296.9, 134.3, 304.1], "text": "sS"},
+   {"mm": [46.9, 278.9, 57.9, 283.7], "text": "R>O"},
+   {"mm": [79.2, 264.0, 136.9, 270.5], "text": "Mt ~?ra led Ci.-.cu it"},
+   {"mm": [46.9, 258.4, 53.1, 263.9], "text": "22"},
+   {"mm": [47.3, 252.0, 54.0, 257.2], "text": "Z3"},
+   {"mm": [46.9, 245.3, 53.3, 250.5], "text": "26"},
+   {"mm": [46.9, 238.4, 53.8, 243.9], "text": "Z5"},
+   {"mm": [46.4, 225.0, 52.5, 230.5], "text": "26"},
+   {"mm": [235.8, 224.8, 257.6, 229.8], "text": "LM20 lN"},
+   {"mm": [46.9, 218.3, 53.8, 224.0], "text": "Z7"},
+   {"mm": [235.8, 218.5, 262.1, 223.5], "text": "LM14S8N"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [46.2, 56.3, 96.1, 61.4], "text": "WBS eeomm eMd"},
+   {"mm": [123.9, 56.3, 129.5, 61.4], "text": "se"},
+   {"mm": [145.1, 56.3, 181.1, 61.4], "text": "\"epl ec emeM"},
+   {"mm": [197.1, 56.3, 226.7, 61.4], "text": "rt made"},
+   {"mm": [243.8, 56.3, 286.5, 61.4], "text": "the spec ed"},
+   {"mm": [45.8, 49.7, 88.3, 54.7], "text": "meM uf cturer"},
+   {"mm": [112.1, 49.7, 154.4, 54.7], "text": "eeo ue vee op"},
+   {"mm": [179.0, 49.7, 185.0, 54.7], "text": "eq"},
+   {"mm": [198.0, 49.7, 211.8, 54.7], "text": "meMt"},
+   {"mm": [220.9, 49.7, 255.0, 54.7], "text": "erfo maMce"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–325 mm across, 0–423 mm up",
+  "- **Outlines:** line 290 rings, 2,829 straight (5,958 mm) / 643 curved (1,016 mm); text 347 rings, 2,413 straight (2,698 mm) / 572 curved (907 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.2 @ (112.1, 335.8), r 1.7 @ (201.5, 268.1)",
+  "- **Words (OCR):** 76 in 39 lines: WAR · ECK SYS TE MS LTD · TS IST · 4-1 26 EQUA LIZER FIL TER AMP LIFI ER · OESCRI PTI ON · R4S · Re si stor · IoW · sS · Philips · R46 · dele te"
+ ]
+}

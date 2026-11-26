@@ -1,0 +1,60 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460A/MANUALS/1979 - M460A - Input Module.pdf",
+ "page": 21,
+ "version": 1,
+ "trace": "_traces/d7eb8ba368a6a6cb-p21.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "21", "pages": "49"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 335.5, 431.8],
+ "outlines": {
+  "line": {"rings": 321, "straight": {"n": 2501, "mm": 4749.0}, "curved": {"n": 598, "mm": 817.9}},
+  "text": {"rings": 124, "straight": {"n": 1118, "mm": 1202.8}, "curved": {"n": 326, "mm": 507.7}}
+ },
+ "circles": [
+  {"c": [84.3, 315.3], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [140.6, 315.0], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 38,
+  "lines": [
+   {"mm": [25.7, 412.8, 43.8, 418.3], "text": "WAR"},
+   {"mm": [61.5, 412.8, 138.8, 418.3], "text": "ECK SYS EMS TO"},
+   {"mm": [144.0, 363.6, 188.9, 370.5], "text": "illill!!.!.Q.!"},
+   {"mm": [124.6, 351.5, 212.0, 358.0], "text": "-109 AMPLIFIER SERIES"},
+   {"mm": [39.9, 324.9, 74.7, 331.4], "text": "fnvertfnv"},
+   {"mm": [119.4, 324.9, 134.9, 331.4], "text": "with"},
+   {"mm": [152.2, 324.9, 191.7, 331.4], "text": "elltern.lly"},
+   {"mm": [212.4, 324.9, 238.8, 331.4], "text": "ppe to"},
+   {"mm": [39.5, 311.5, 187.6, 317.8], "text": "The utp ut of ll -edels of the 8-109"},
+   {"mm": [204.9, 311.5, 227.3, 317.8], "text": "tes is"},
+   {"mm": [232.5, 311.5, 263.6, 317.8], "text": "acthely"},
+   {"mm": [39.3, 304.9, 179.0, 311.3], "text": "balanced tA is brouvh out It pins"},
+   {"mm": [196.7, 304.9, 206.2, 311.3], "text": "Ind"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–432 mm up",
+  "- **Outlines:** line 321 rings, 2,501 straight (4,749 mm) / 598 curved (818 mm); text 124 rings, 1,118 straight (1,203 mm) / 326 curved (508 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 1.9 @ (84.3, 315.3), r 1.9 @ (140.6, 315.0)",
+  "- **Words (OCR):** 38 in 17 lines: WAR · ECK SYS EMS TO · illill!!.!.Q.! · -109 AMPLIFIER SERIES · fnvertfnv · with · elltern.lly · ppe to · The utp ut of ll -edels of the 8-109 · tes is · acthely · balanced tA is brouvh out It pins"
+ ]
+}

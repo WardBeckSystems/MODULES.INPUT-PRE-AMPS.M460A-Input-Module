@@ -1,0 +1,47 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460A/MANUALS/1979 - M460A - Input Module.pdf",
+ "page": 18,
+ "version": 1,
+ "trace": "_traces/d7eb8ba368a6a6cb-p18.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "18", "pages": "49"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.1, 330.5, 422.1],
+ "outlines": {
+  "line": {"rings": 55, "straight": {"n": 849, "mm": 3164.9}, "curved": {"n": 126, "mm": 183.6}},
+  "text": {"rings": 48, "straight": {"n": 385, "mm": 463.6}, "curved": {"n": 100, "mm": 146.8}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 14,
+  "lines": [
+   {"mm": [31.3, 413.0, 49.4, 418.8], "text": "WAR"},
+   {"mm": [60.9, 413.0, 137.3, 418.8], "text": "SE CK SYS EMS LT"},
+   {"mm": [128.0, 290.0, 214.6, 296.0], "text": "8-109 AMPLIFIER SERIES"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"},
+   {"mm": [168.6, 9.9, 179.8, 16.4], "text": "109"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–330 mm across, 0–422 mm up",
+  "- **Outlines:** line 55 rings, 849 straight (3,165 mm) / 126 curved (184 mm); text 48 rings, 385 straight (464 mm) / 100 curved (147 mm)",
+  "- **Words (OCR):** 14 in 8 lines: WAR · SE CK SYS EMS LT · 8-109 AMPLIFIER SERIES · ps · BS · tp · ht · 109"
+ ]
+}

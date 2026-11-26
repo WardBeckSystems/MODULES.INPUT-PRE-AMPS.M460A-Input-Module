@@ -1,0 +1,80 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460A/MANUALS/1979 - M460A - Input Module.pdf",
+ "page": 26,
+ "version": 1,
+ "trace": "_traces/d7eb8ba368a6a6cb-p26.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "26", "pages": "49"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [6.0, 9.0, 307.4, 421.7],
+ "outlines": {
+  "line": {"rings": 132, "straight": {"n": 2000, "mm": 4987.9}, "curved": {"n": 352, "mm": 547.0}},
+  "text": {"rings": 496, "straight": {"n": 4005, "mm": 4442.6}, "curved": {"n": 1207, "mm": 1869.5}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [188.7, 273.8, 191.1, 276.1], "w": 2.4, "h": 2.4, "from": "ring"},
+  {"mm": [188.5, 187.0, 190.9, 189.6], "w": 2.4, "h": 2.6, "from": "ring"}
+ ],
+ "text": {
+  "words": 90,
+  "lines": [
+   {"mm": [28.9, 410.6, 42.5, 416.2], "text": "WA"},
+   {"mm": [58.9, 410.6, 124.6, 416.2], "text": "SECI< SYSTEMS"},
+   {"mm": [144.4, 362.9, 182.9, 368.9], "text": "PARTS LIST"},
+   {"mm": [124.1, 349.8, 206.8, 355.8], "text": "·109 AMPLIFIER SERIES"},
+   {"mm": [39.1, 316.1, 74.1, 322.1], "text": "All pa rts"},
+   {"mm": [91.8, 316.1, 155.2, 322.1], "text": "per -109 except"},
+   {"mm": [172.5, 316.1, 179.8, 322.1], "text": "no"},
+   {"mm": [196.7, 316.1, 215.0, 322.1], "text": "be low"},
+   {"mm": [39.1, 303.1, 56.3, 309.1], "text": "PART"},
+   {"mm": [67.6, 303.1, 111.4, 309.1], "text": "OESCRIPTION"},
+   {"mm": [180.5, 302.5, 191.7, 309.7], "text": "HFG"},
+   {"mm": [236.6, 302.3, 297.3, 308.3], "text": "MFG PART NUM8 ER"},
+   {"mm": [39.1, 286.3, 135.4, 301.2], "text": "gl Capa~itor pF"},
+   {"mm": [180.5, 288.9, 207.5, 294.9], "text": "Ph! lfpS"},
+   {"mm": [237.1, 288.7, 291.7, 295.1], "text": "2ZZ2 6~8 -094 78"},
+   {"mm": [39.5, 269.9, 50.7, 275.9], "text": "R15"},
+   {"mm": [67.6, 269.9, 94.6, 275.9], "text": "Resisto"},
+   {"mm": [116.2, 269.9, 122.8, 275.9], "text": "51"},
+   {"mm": [136.7, 269.9, 143.4, 275.9], "text": "10"},
+   {"mm": [39.1, 229.5, 215.0, 235.5], "text": "All pa rts as per ·109 except as noted be low"},
+   {"mm": [180.5, 215.7, 191.7, 222.9], "text": "HFG"},
+   {"mm": [39.1, 216.3, 56.3, 222.3], "text": "PART"},
+   {"mm": [67.6, 216.3, 110.3, 222.3], "text": "OESCRIPTION"},
+   {"mm": [236.6, 216.1, 295.4, 222.1], "text": "MFG PART NUMBER"},
+   {"mm": [39.1, 199.7, 102.8, 214.6], "text": "gl Capa~itor"},
+   {"mm": [236.6, 201.9, 291.5, 208.8], "text": "2222 -6~8 -09 478"},
+   {"mm": [39.5, 183.1, 50.7, 189.1], "text": "R15"},
+   {"mm": [67.6, 183.1, 143.8, 189.1], "text": "Resistor \\iW 51 2K4"},
+   {"mm": [39.1, 69.1, 259.3, 75.1], "text": "W8S ecommends the use of rep lacement parts made by he"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [39.1, 62.4, 130.6, 68.4], "text": "specifi ed manufacturers"},
+   {"mm": [152.2, 62.4, 259.7, 68.4], "text": "con tinued optfmUIl equipment"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [39.5, 56.1, 78.2, 62.1], "text": "performa nc"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"},
+   {"mm": [148.3, 7.8, 167.5, 13.8], "text": "8-109"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–307 mm across, 9–422 mm up",
+  "- **Outlines:** line 132 rings, 2,000 straight (4,988 mm) / 352 curved (547 mm); text 496 rings, 4,005 straight (4,443 mm) / 1,207 curved (1,870 mm)",
+  "- **Closed boxes:** 2",
+  "- **Words (OCR):** 90 in 37 lines: WA · SECI< SYSTEMS · PARTS LIST · ·109 AMPLIFIER SERIES · All pa rts · per -109 except · no · be low · PART · OESCRIPTION · HFG · MFG PART NUM8 ER"
+ ]
+}

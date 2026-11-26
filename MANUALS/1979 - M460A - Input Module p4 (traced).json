@@ -1,0 +1,60 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460A/MANUALS/1979 - M460A - Input Module.pdf",
+ "page": 4,
+ "version": 1,
+ "trace": "_traces/d7eb8ba368a6a6cb-p4.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "4", "pages": "49"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 5.6, 329.2, 417.3],
+ "outlines": {
+  "line": {"rings": 88, "straight": {"n": 1054, "mm": 3677.1}, "curved": {"n": 177, "mm": 297.2}},
+  "text": {"rings": 153, "straight": {"n": 1173, "mm": 1409.6}, "curved": {"n": 295, "mm": 442.1}},
+  "tb": {"rings": 26, "straight": {"n": 215, "mm": 317.7}, "curved": {"n": 47, "mm": 69.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 34,
+  "lines": [
+   {"mm": [23.5, 403.5, 48.4, 408.8], "text": "WARD"},
+   {"mm": [59.4, 403.5, 136.7, 408.8], "text": "ECK SYSTEMS LTD"},
+   {"mm": [125.9, 359.9, 182.4, 365.9], "text": "TECHNI CAL DATA"},
+   {"mm": [117.9, 347.0, 189.3, 352.9], "text": "M46DA INPUT MODULE"},
+   {"mm": [33.0, 320.0, 60.7, 326.2], "text": "Allbient"},
+   {"mm": [65.4, 319.5, 112.1, 327.0], "text": "Te .per~ture:"},
+   {"mm": [138.8, 320.0, 221.7, 326.2], "text": "to 60 degrees Cels ius"},
+   {"mm": [41.2, 307.2, 72.5, 313.5], "text": "eens tees"},
+   {"mm": [130.6, 307.2, 165.6, 313.5], "text": "1.6 wide"},
+   {"mm": [179.2, 307.2, 221.7, 313.5], "text": "14. 15 high"},
+   {"mm": [234.9, 307.2, 270.3, 313.5], "text": "6.5\" deep"},
+   {"mm": [130.8, 297.5, 139.9, 303.3], "text": "(41"},
+   {"mm": [167.1, 297.5, 177.5, 303.3], "text": "360"},
+   {"mm": [203.4, 297.5, 214.4, 303.7], "text": "165"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "title_block": {"mm": [16.9, 394.8, 125.2, 417.2], "from": "title-block words (training set)", "text": ["WARD", "ECK SYSTEMS LTD"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–329 mm across, 6–417 mm up",
+  "- **Outlines:** line 88 rings, 1,054 straight (3,677 mm) / 177 curved (297 mm); text 153 rings, 1,173 straight (1,410 mm) / 295 curved (442 mm); tb 26 rings, 215 straight (318 mm) / 47 curved (69.7 mm)",
+  "- **Words (OCR):** 34 in 18 lines: WARD · ECK SYSTEMS LTD · TECHNI CAL DATA · M46DA INPUT MODULE · Allbient · Te .per~ture: · to 60 degrees Cels ius · eens tees · 1.6 wide · 14. 15 high · 6.5\" deep · (41",
+  "- **Title block:** (17, 395)–(125, 417) mm: WARD · ECK SYSTEMS LTD"
+ ]
+}

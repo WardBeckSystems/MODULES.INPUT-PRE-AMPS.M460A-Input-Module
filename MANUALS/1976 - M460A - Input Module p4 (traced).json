@@ -1,0 +1,55 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460A/MANUALS/1976 - M460A - Input Module.pdf",
+ "page": 4,
+ "version": 1,
+ "trace": "_traces/fde61e0a16dce511-p4.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "4", "pages": "49"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 5.6, 329.2, 417.3],
+ "outlines": {
+  "line": {"rings": 22, "straight": {"n": 530, "mm": 2941.9}, "curved": {"n": 54, "mm": 87.3}},
+  "text": {"rings": 212, "straight": {"n": 1697, "mm": 2072.3}, "curved": {"n": 405, "mm": 601.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 24,
+  "lines": [
+   {"mm": [24.8, 404.2, 139.7, 411.1], "text": "WAAD-BECK systems LTD"},
+   {"mm": [125.7, 359.5, 183.5, 367.6], "text": "IECHNICAL DATA"},
+   {"mm": [117.4, 347.2, 191.5, 355.3], "text": "M46O4 InPut MODULE"},
+   {"mm": [32.8, 319.5, 114.2, 328.4], "text": "Ambient Temperature:"},
+   {"mm": [138.2, 321.3, 147.5, 327.7], "text": "to"},
+   {"mm": [149.6, 319.1, 224.3, 328.7], "text": "60 degrees Celsius"},
+   {"mm": [32.8, 307.7, 78.2, 314.6], "text": "Dimens ions :"},
+   {"mm": [130.0, 307.7, 167.1, 314.6], "text": "1.6\" wide"},
+   {"mm": [178.1, 307.7, 191.1, 315.3], "text": "14 ."},
+   {"mm": [189.6, 307.0, 223.7, 315.8], "text": "15 \" high"},
+   {"mm": [234.7, 306.8, 272.7, 315.7], "text": "6.5\" deep"},
+   {"mm": [130.0, 296.9, 155.2, 305.5], "text": "(41 MI"},
+   {"mm": [166.2, 297.9, 179.6, 304.9], "text": "360"},
+   {"mm": [202.3, 297.9, 215.7, 304.9], "text": "165"},
+   {"mm": [217.8, 297.9, 231.9, 305.6], "text": "mm )"},
+   {"mm": [155.4, 4.3, 167.3, 11.3], "text": "1-2"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–329 mm across, 6–417 mm up",
+  "- **Outlines:** line 22 rings, 530 straight (2,942 mm) / 54 curved (87.3 mm); text 212 rings, 1,697 straight (2,072 mm) / 405 curved (601 mm)",
+  "- **Words (OCR):** 24 in 16 lines: WAAD-BECK systems LTD · IECHNICAL DATA · M46O4 InPut MODULE · Ambient Temperature: · to · 60 degrees Celsius · Dimens ions : · 1.6\" wide · 14 . · 15 \" high · 6.5\" deep · (41 MI"
+ ]
+}

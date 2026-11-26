@@ -1,0 +1,60 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460A/MANUALS/1979 - M460A - Input Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/d7eb8ba368a6a6cb-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "49"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 310.9, 414.5],
+ "outlines": {
+  "line": {"rings": 100, "straight": {"n": 1442, "mm": 4487.8}, "curved": {"n": 224, "mm": 356.1}},
+  "text": {"rings": 147, "straight": {"n": 1106, "mm": 1564.9}, "curved": {"n": 197, "mm": 337.0}},
+  "tb": {"rings": 9, "straight": {"n": 73, "mm": 84.2}, "curved": {"n": 10, "mm": 16.5}}
+ },
+ "circles": [{"c": [178.4, 231.6], "r": 2.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 28,
+  "lines": [
+   {"mm": [123.9, 406.3, 241.2, 413.8], "text": "WARD -BECK SYSTE"},
+   {"mm": [266.4, 406.3, 286.5, 413.8], "text": "LTD"},
+   {"mm": [47.5, 395.5, 288.0, 412.1], "text": "(VVBS] 8<l1 PRQGFESS AVE NUE. BCARBOROl.IGH. ONTAAO M1 41"},
+   {"mm": [123.1, 394.9, 135.8, 398.7], "text": "TEU:"},
+   {"mm": [143.6, 394.9, 171.6, 398.7], "text": "OB-Il34ElS"},
+   {"mm": [212.2, 394.9, 244.0, 398.7], "text": "TE:LE F'!-CJ'E"},
+   {"mm": [248.1, 394.7, 269.9, 399.0], "text": "41e I438"},
+   {"mm": [137.7, 239.2, 202.1, 249.8], "text": "M460A"},
+   {"mm": [138.0, 227.6, 201.0, 233.6], "text": "IN PUT MODU LE"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [117.2, 397.6, 205.5, 422.3],
+  "from": "title-block words (training set)",
+  "text": ["WARD -BECK SYSTE", "(VVBS] 8<l1 PRQGFESS AVE NUE. BCARBOROl.IGH. ONTAAO M1 41"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–311 mm across, 0–414 mm up",
+  "- **Outlines:** line 100 rings, 1,442 straight (4,488 mm) / 224 curved (356 mm); text 147 rings, 1,106 straight (1,565 mm) / 197 curved (337 mm); tb 9 rings, 73 straight (84.2 mm) / 10 curved (16.5 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.8 @ (178.4, 231.6)",
+  "- **Words (OCR):** 28 in 13 lines: WARD -BECK SYSTE · LTD · (VVBS] 8<l1 PRQGFESS AVE NUE. BCARBOROl.IGH. ONTAAO M1 41 · TEU: · OB-Il34ElS · TE:LE F'!-CJ'E · 41e I438 · M460A · IN PUT MODU LE · ps · BS · tp",
+  "- **Title block:** (117, 398)–(206, 422) mm: WARD -BECK SYSTE · (VVBS] 8<l1 PRQGFESS AVE NUE. BCARBOROl.IGH. ONTAAO M1 41"
+ ]
+}

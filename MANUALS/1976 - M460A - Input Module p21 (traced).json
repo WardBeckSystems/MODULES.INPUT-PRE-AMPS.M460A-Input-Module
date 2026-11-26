@@ -1,0 +1,55 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460A/MANUALS/1976 - M460A - Input Module.pdf",
+ "page": 21,
+ "version": 1,
+ "trace": "_traces/fde61e0a16dce511-p21.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "21", "pages": "49"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 335.6, 431.8],
+ "outlines": {
+  "line": {"rings": 205, "straight": {"n": 1448, "mm": 3559.6}, "curved": {"n": 314, "mm": 393.9}},
+  "text": {"rings": 245, "straight": {"n": 2153, "mm": 2419.8}, "curved": {"n": 587, "mm": 905.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 32,
+  "lines": [
+   {"mm": [23.5, 412.8, 140.8, 420.2], "text": "WARO-BECK BYSTEms LTD."},
+   {"mm": [141.8, 364.9, 188.3, 373.0], "text": "DESCRIPTION"},
+   {"mm": [118.1, 352.3, 139.3, 359.3], "text": "8-109"},
+   {"mm": [146.2, 350.8, 212.4, 359.5], "text": "AMPLLELER_SERIES"},
+   {"mm": [37.1, 323.9, 253.0, 334.3], "text": "inverting amplifier with El externally strapped E6 _"},
+   {"mm": [230.8, 324.9, 239.4, 331.9], "text": "to"},
+   {"mm": [37.1, 312.0, 106.7, 320.1], "text": "The output 0 f a 11"},
+   {"mm": [110.1, 312.0, 147.5, 319.7], "text": "mode ]s 0 f"},
+   {"mm": [150.5, 311.3, 227.6, 319.7], "text": "the 8- 109 series is"},
+   {"mm": [230.4, 310.9, 263.8, 319.1], "text": "actively"},
+   {"mm": [37.1, 305.5, 98.7, 313.1], "text": "ba lanced and is"},
+   {"mm": [161.1, 304.0, 207.7, 314.1], "text": "Pins E4 and"},
+   {"mm": [101.9, 304.9, 159.1, 312.5], "text": "brought out at"},
+   {"mm": [210.5, 304.9, 220.9, 312.5], "text": "E6 _"},
+   {"mm": [145.7, 9.7, 183.5, 17.4], "text": "8-109-1-3"}
+  ]
+ },
+ "dots": [{"c": [253.1, 326.6], "r": 0.8, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–432 mm up",
+  "- **Outlines:** line 205 rings, 1,448 straight (3,560 mm) / 314 curved (394 mm); text 245 rings, 2,153 straight (2,420 mm) / 587 curved (906 mm)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 32 in 15 lines: WARO-BECK BYSTEms LTD. · DESCRIPTION · 8-109 · AMPLLELER_SERIES · inverting amplifier with El externally strapped E6 _ · to · The output 0 f a 11 · mode ]s 0 f · the 8- 109 series is · actively · ba lanced and is · Pins E4 and"
+ ]
+}

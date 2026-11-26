@@ -1,0 +1,42 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460A/MANUALS/1976 - M460A - Input Module.pdf",
+ "page": 18,
+ "version": 1,
+ "trace": "_traces/fde61e0a16dce511-p18.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "18", "pages": "49"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.1, 335.6, 427.3],
+ "outlines": {
+  "line": {"rings": 45, "straight": {"n": 648, "mm": 2969.2}, "curved": {"n": 81, "mm": 115.3}},
+  "text": {"rings": 59, "straight": {"n": 583, "mm": 678.7}, "curved": {"n": 127, "mm": 193.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 5,
+  "lines": [
+   {"mm": [29.1, 412.8, 144.7, 420.7], "text": "WARD-BECK SYETEmS LTD_"},
+   {"mm": [126.3, 289.7, 217.0, 297.2], "text": "8-109 AMPLIFIER SERIES"},
+   {"mm": [159.8, 9.7, 181.4, 17.9], "text": "8-109"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–427 mm up",
+  "- **Outlines:** line 45 rings, 648 straight (2,969 mm) / 81 curved (115 mm); text 59 rings, 583 straight (679 mm) / 127 curved (193 mm)",
+  "- **Words (OCR):** 5 in 3 lines: WARD-BECK SYETEmS LTD_ · 8-109 AMPLIFIER SERIES · 8-109"
+ ]
+}

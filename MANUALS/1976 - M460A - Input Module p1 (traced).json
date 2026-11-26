@@ -1,0 +1,56 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460A/MANUALS/1976 - M460A - Input Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/fde61e0a16dce511-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "49"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 310.9, 414.5],
+ "outlines": {
+  "line": {"rings": 27, "straight": {"n": 399, "mm": 3013.1}, "curved": {"n": 39, "mm": 64.2}},
+  "text": {"rings": 162, "straight": {"n": 1886, "mm": 2621.8}, "curved": {"n": 374, "mm": 617.0}},
+  "tb": {"rings": 2, "straight": {"n": 95, "mm": 288.5}, "curved": {"n": 10, "mm": 19.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [123.3, 406.1, 288.4, 415.7], "text": "WAAD-BECK SYsTeMS LTD_"},
+   {"mm": [54.0, 396.8, 287.4, 411.5], "text": "WBS 841 PAOGRESS AVENUE; SCARBOROUGH; ONTAAIO M1H2xa"},
+   {"mm": [122.2, 394.9, 172.3, 400.2], "text": "TELEX: 06-23469"},
+   {"mm": [211.2, 395.3, 287.1, 400.6], "text": "TELEPHONE: 416/438-6550"},
+   {"mm": [137.3, 239.2, 202.3, 252.9], "text": "MA6OA"},
+   {"mm": [168.6, 227.6, 202.1, 235.7], "text": "MODULE"},
+   {"mm": [136.4, 227.6, 161.3, 235.2], "text": "INPUT"},
+   {"mm": [80.1, 5.6, 155.7, 10.9], "text": "DESIGN AND MANUFACTUAE"},
+   {"mm": [157.2, 6.3, 204.7, 11.1], "text": "Of PPOFESSIONAL"},
+   {"mm": [206.8, 6.3, 255.4, 11.8], "text": "ALDIO EQUIPMENT"}
+  ]
+ },
+ "title_block": {
+  "mm": [47.2, 388.1, 268.4, 424.5],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK SYsTeMS LTD_", "WBS 841 PAOGRESS AVENUE; SCARBOROUGH; ONTAAIO M1H2xa", "TELEX: 06-23469", "TELEPHONE: 416/438-6550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–311 mm across, 0–414 mm up",
+  "- **Outlines:** line 27 rings, 399 straight (3,013 mm) / 39 curved (64.2 mm); text 162 rings, 1,886 straight (2,622 mm) / 374 curved (617 mm); tb 2 rings, 95 straight (288 mm) / 10 curved (19.4 mm)",
+  "- **Words (OCR):** 15 in 10 lines: WAAD-BECK SYsTeMS LTD_ · WBS 841 PAOGRESS AVENUE; SCARBOROUGH; ONTAAIO M1H2xa · TELEX: 06-23469 · TELEPHONE: 416/438-6550 · MA6OA · MODULE · INPUT · DESIGN AND MANUFACTUAE · Of PPOFESSIONAL · ALDIO EQUIPMENT",
+  "- **Title block:** (47, 388)–(268, 424) mm: WAAD-BECK SYsTeMS LTD_ · WBS 841 PAOGRESS AVENUE; SCARBOROUGH; ONTAAIO M1H2xa · TELEX: 06-23469 · TELEPHONE: 416/438-6550"
+ ]
+}

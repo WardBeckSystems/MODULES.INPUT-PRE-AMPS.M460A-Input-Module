@@ -1,0 +1,48 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460A/MANUALS/1979 - M460A - Input Module.pdf",
+ "page": 27,
+ "version": 1,
+ "trace": "_traces/d7eb8ba368a6a6cb-p27.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "27", "pages": "49"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.6, 21.4, 310.5, 425.8],
+ "outlines": {
+  "line": {"rings": 67, "straight": {"n": 863, "mm": 3252.5}, "curved": {"n": 170, "mm": 273.8}},
+  "text": {"rings": 67, "straight": {"n": 575, "mm": 795.2}, "curved": {"n": 139, "mm": 205.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 20,
+  "lines": [
+   {"mm": [30.4, 410.9, 82.0, 415.9], "text": "WARD -SE CK"},
+   {"mm": [91.1, 410.9, 119.2, 415.9], "text": "YSTEM"},
+   {"mm": [128.9, 410.9, 143.4, 415.9], "text": "LTD"},
+   {"mm": [110.8, 232.7, 220.6, 237.8], "text": "4-1 10 PRE MP/H IG H_PASS FI LTER"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [229.5, 40.6, 282.4, 45.6], "text": "sePTE MBER 1963"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–310 mm across, 21–426 mm up",
+  "- **Outlines:** line 67 rings, 863 straight (3,252 mm) / 170 curved (274 mm); text 67 rings, 575 straight (795 mm) / 139 curved (206 mm)",
+  "- **Words (OCR):** 20 in 9 lines: WARD -SE CK · YSTEM · LTD · 4-1 10 PRE MP/H IG H_PASS FI LTER · ps · BS · sePTE MBER 1963 · tp · ht"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460A/MANUALS/1976 - M460A - Input Module.pdf",
+ "page": 27,
+ "version": 1,
+ "trace": "_traces/fde61e0a16dce511-p27.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "27", "pages": "49"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.6, 21.4, 306.8, 425.8],
+ "outlines": {
+  "line": {"rings": 22, "straight": {"n": 470, "mm": 2729.0}, "curved": {"n": 48, "mm": 75.1}},
+  "text": {"rings": 95, "straight": {"n": 794, "mm": 997.9}, "curved": {"n": 198, "mm": 293.7}},
+  "tb": {"rings": 3, "straight": {"n": 6, "mm": 4.8}, "curved": {"n": 4, "mm": 4.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 8,
+  "lines": [
+   {"mm": [28.3, 410.2, 143.4, 418.1], "text": "WAAD-BECK systems LTD"},
+   {"mm": [109.0, 232.7, 127.8, 239.7], "text": "4-110"},
+   {"mm": [130.0, 232.7, 221.1, 239.9], "text": "PREAMP /HIGH-PASS FILTER"},
+   {"mm": [229.3, 54.4, 248.1, 61.4], "text": "ISSUE"},
+   {"mm": [228.0, 41.0, 283.7, 48.7], "text": "SEPTEMBER 1983"}
+  ]
+ },
+ "title_block": {
+  "mm": [21.6, 45.9, 254.9, 426.7],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK systems LTD", "4-110", "PREAMP /HIGH-PASS FILTER", "ISSUE"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–307 mm across, 21–426 mm up",
+  "- **Outlines:** line 22 rings, 470 straight (2,729 mm) / 48 curved (75.1 mm); text 95 rings, 794 straight (998 mm) / 198 curved (294 mm); tb 3 rings, 6 straight (4.8 mm) / 4 curved (4.3 mm)",
+  "- **Words (OCR):** 8 in 5 lines: WAAD-BECK systems LTD · 4-110 · PREAMP /HIGH-PASS FILTER · ISSUE · SEPTEMBER 1983",
+  "- **Title block:** (22, 46)–(255, 427) mm: WAAD-BECK systems LTD · 4-110 · PREAMP /HIGH-PASS FILTER · ISSUE"
+ ]
+}

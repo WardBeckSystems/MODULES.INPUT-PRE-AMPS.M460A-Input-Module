@@ -1,0 +1,76 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460A/MANUALS/1979 - M460A - Input Module.pdf",
+ "page": 31,
+ "version": 1,
+ "trace": "_traces/d7eb8ba368a6a6cb-p31.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "31", "pages": "49"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 335.3, 420.8],
+ "outlines": {
+  "line": {"rings": 224, "straight": {"n": 2099, "mm": 5405.8}, "curved": {"n": 481, "mm": 776.5}},
+  "text": {"rings": 256, "straight": {"n": 1930, "mm": 2152.1}, "curved": {"n": 551, "mm": 852.8}}
+ },
+ "circles": [
+  {"c": [115.7, 331.4], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [114.1, 257.7], "r": 1.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8}
+ ],
+ "boxes": [{"mm": [55.9, 413.2, 58.9, 415.4], "w": 3.0, "h": 2.2, "from": "ring"}],
+ "text": {
+  "words": 63,
+  "lines": [
+   {"mm": [49.7, 411.3, 54.4, 416.6], "text": "Fl"},
+   {"mm": [71.7, 411.3, 81.8, 416.6], "text": "EC"},
+   {"mm": [96.7, 411.3, 151.3, 416.6], "text": "YSTEM LTD."},
+   {"mm": [157.6, 368.1, 171.6, 372.9], "text": "PART"},
+   {"mm": [181.4, 368.1, 195.4, 372.9], "text": "LIST"},
+   {"mm": [122.2, 354.9, 134.1, 359.7], "text": "4_11"},
+   {"mm": [147.0, 354.9, 200.6, 359.7], "text": "RE AMP /HI GH- PAS"},
+   {"mm": [216.3, 354.9, 232.1, 359.7], "text": "LT ER"},
+   {"mm": [80.1, 327.7, 122.2, 332.5], "text": "OESC RI PTI ON"},
+   {"mm": [237.7, 328.6, 245.7, 333.4], "text": "MF"},
+   {"mm": [258.9, 328.6, 299.2, 333.4], "text": "ART NUMBER"},
+   {"mm": [79.9, 314.4, 106.2, 319.1], "text": "Re slor"},
+   {"mm": [114.0, 314.1, 124.1, 320.1], "text": "/IIw"},
+   {"mm": [129.3, 313.7, 137.7, 321.1], "text": "51"},
+   {"mm": [144.7, 301.4, 157.8, 306.4], "text": "JJOK"},
+   {"mm": [81.2, 288.0, 131.7, 292.8], "text": "Inlegr\"ated Cir-<:"},
+   {"mm": [80.1, 254.8, 115.1, 260.0], "text": "seteeeee 10"},
+   {"mm": [127.4, 254.3, 148.8, 261.0], "text": "_51 tol"},
+   {"mm": [150.9, 254.8, 171.9, 260.0], "text": "..........ce"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [51.2, 62.4, 63.3, 67.2], "text": "WBS"},
+   {"mm": [67.4, 62.4, 92.4, 67.4], "text": "r-ecemme"},
+   {"mm": [127.8, 62.4, 142.3, 67.4], "text": "se of"},
+   {"mm": [148.1, 62.4, 220.6, 67.4], "text": "r\"c pl ac eonent parts ma"},
+   {"mm": [245.5, 53.5, 288.9, 67.2], "text": "1h BS"},
+   {"mm": [259.5, 62.4, 283.5, 67.4], "text": "spec if ie"},
+   {"mm": [59.8, 55.5, 177.9, 61.2], "text": "ovr cw-e r-s fOr\" con tl ed op m....m"},
+   {"mm": [200.4, 55.7, 211.2, 60.5], "text": "men"},
+   {"mm": [222.8, 55.7, 251.3, 60.5], "text": "erform lln"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [156.5, 58.4], "r": 1.0, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 0–421 mm up",
+  "- **Outlines:** line 224 rings, 2,099 straight (5,406 mm) / 481 curved (776 mm); text 256 rings, 1,930 straight (2,152 mm) / 551 curved (853 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.1 @ (115.7, 331.4), r 1.2 @ (114.1, 257.7)",
+  "- **Closed boxes:** 1",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 63 in 31 lines: Fl · EC · YSTEM LTD. · PART · LIST · 4_11 · RE AMP /HI GH- PAS · LT ER · OESC RI PTI ON · MF · ART NUMBER · Re slor"
+ ]
+}

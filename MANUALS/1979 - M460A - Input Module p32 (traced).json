@@ -1,0 +1,50 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460A/MANUALS/1979 - M460A - Input Module.pdf",
+ "page": 32,
+ "version": 1,
+ "trace": "_traces/d7eb8ba368a6a6cb-p32.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "32", "pages": "49"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.8, 20.5, 310.5, 424.3],
+ "outlines": {
+  "line": {"rings": 69, "straight": {"n": 1094, "mm": 3483.3}, "curved": {"n": 164, "mm": 278.7}},
+  "text": {"rings": 62, "straight": {"n": 548, "mm": 660.4}, "curved": {"n": 134, "mm": 212.9}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [48.1, 420.4, 51.2, 422.5], "w": 3.0, "h": 2.2, "from": "ring"}],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [34.8, 417.8, 52.0, 423.0], "text": "ARO"},
+   {"mm": [83.6, 417.8, 123.1, 423.0], "text": "SYS TE MS"},
+   {"mm": [125.4, 230.4, 229.3, 235.9], "text": "EQUALIZER FILTER AMPLIFIER"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [233.8, 52.5, 250.9, 58.0], "text": "ISSUE"},
+   {"mm": [255.0, 52.5, 265.3, 58.2], "text": "112."},
+   {"mm": [232.5, 39.1, 286.7, 44.6], "text": "SEP TEMBER 1963"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–310 mm across, 20–424 mm up",
+  "- **Outlines:** line 69 rings, 1,094 straight (3,483 mm) / 164 curved (279 mm); text 62 rings, 548 straight (660 mm) / 134 curved (213 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 16 in 10 lines: ARO · SYS TE MS · EQUALIZER FILTER AMPLIFIER · ps · BS · ISSUE · 112. · SEP TEMBER 1963 · tp · ht"
+ ]
+}

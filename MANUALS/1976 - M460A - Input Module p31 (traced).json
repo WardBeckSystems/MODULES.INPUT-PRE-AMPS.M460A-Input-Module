@@ -1,0 +1,93 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460A/MANUALS/1976 - M460A - Input Module.pdf",
+ "page": 31,
+ "version": 1,
+ "trace": "_traces/fde61e0a16dce511-p31.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "31", "pages": "49"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 335.3, 420.8],
+ "outlines": {
+  "line": {"rings": 36, "straight": {"n": 685, "mm": 3639.8}, "curved": {"n": 83, "mm": 131.7}},
+  "text": {"rings": 411, "straight": {"n": 3122, "mm": 3545.3}, "curved": {"n": 875, "mm": 1362.7}},
+  "tb": {"rings": 5, "straight": {"n": 28, "mm": 25.2}, "curved": {"n": 10, "mm": 10.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 50,
+  "lines": [
+   {"mm": [34.3, 410.6, 149.4, 418.6], "text": "WARD-BECK SYSTems LTD"},
+   {"mm": [155.9, 368.1, 195.4, 375.1], "text": "PARTS LiST"},
+   {"mm": [120.5, 355.4, 138.2, 360.9], "text": "4-110"},
+   {"mm": [140.8, 354.5, 204.9, 361.5], "text": "PREAMP/HIGH-PASS"},
+   {"mm": [207.3, 355.2, 232.1, 362.1], "text": "FILTER"},
+   {"mm": [50.1, 328.2, 122.4, 334.6], "text": "PART DESCRIPTION"},
+   {"mm": [188.3, 328.6, 202.3, 335.1], "text": "MFG"},
+   {"mm": [236.2, 328.6, 299.2, 335.7], "text": "MFG PART NUMBER"},
+   {"mm": [109.0, 314.8, 125.2, 321.7], "text": "1/4w"},
+   {"mm": [187.4, 314.4, 213.1, 322.5], "text": "Philips"},
+   {"mm": [50.5, 315.0, 61.7, 320.3], "text": "RIL"},
+   {"mm": [78.2, 314.8, 106.2, 321.3], "text": "Resistor"},
+   {"mm": [142.9, 315.2, 155.2, 321.7], "text": "4k7"},
+   {"mm": [50.1, 307.7, 62.4, 314.1], "text": "R15"},
+   {"mm": [142.9, 308.3, 158.5, 314.8], "text": "L70k"},
+   {"mm": [50.1, 301.2, 62.4, 307.7], "text": "R16"},
+   {"mm": [142.9, 301.8, 158.5, 308.3], "text": "330k"},
+   {"mm": [236.2, 288.9, 259.9, 295.8], "text": "NES3IV"},
+   {"mm": [50.1, 287.6, 58.7, 294.1], "text": "2i"},
+   {"mm": [78.6, 286.9, 141.8, 294.8], "text": "Integrated Circuit"},
+   {"mm": [187.4, 288.2, 219.8, 295.2], "text": "Fairchild"},
+   {"mm": [78.2, 254.8, 116.2, 261.7], "text": "Selected t0"},
+   {"mm": [140.8, 255.2, 172.5, 261.7], "text": "tolerance"},
+   {"mm": [50.1, 62.2, 134.5, 69.1], "text": "WBS recommends the usc"},
+   {"mm": [136.4, 62.2, 187.6, 68.7], "text": "0f replacement"},
+   {"mm": [190.2, 61.7, 229.5, 68.9], "text": "parts made"},
+   {"mm": [232.1, 62.2, 241.2, 68.7], "text": "by"},
+   {"mm": [244.4, 62.6, 255.6, 69.1], "text": "the"},
+   {"mm": [258.2, 62.2, 289.3, 70.3], "text": "specified"},
+   {"mm": [217.6, 55.7, 261.7, 63.1], "text": "performance ."},
+   {"mm": [50.1, 55.7, 148.3, 62.2], "text": "manufacturers for continued"},
+   {"mm": [150.5, 55.1, 215.3, 62.3], "text": "optimum equipment"},
+   {"mm": [155.9, 16.2, 196.9, 22.7], "text": "4-110 3-2"}
+  ]
+ },
+ "title_block": {
+  "mm": [27.6, 53.5, 137.3, 427.2],
+  "from": "title-block words (training set)",
+  "text": [
+   "WARD-BECK SYSTems LTD",
+   "4-110",
+   "PART DESCRIPTION",
+   "1/4w",
+   "RIL",
+   "Resistor",
+   "R15",
+   "R16",
+   "2i",
+   "Integrated Circuit",
+   "Selected t0",
+   "WBS recommends the usc",
+   "manufacturers for continued"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 0–421 mm up",
+  "- **Outlines:** line 36 rings, 685 straight (3,640 mm) / 83 curved (132 mm); text 411 rings, 3,122 straight (3,545 mm) / 875 curved (1,363 mm); tb 5 rings, 28 straight (25.2 mm) / 10 curved (10.2 mm)",
+  "- **Words (OCR):** 50 in 33 lines: WARD-BECK SYSTems LTD · PARTS LiST · 4-110 · PREAMP/HIGH-PASS · FILTER · PART DESCRIPTION · MFG · MFG PART NUMBER · 1/4w · Philips · RIL · Resistor",
+  "- **Title block:** (28, 54)–(137, 427) mm: WARD-BECK SYSTems LTD · 4-110 · PART DESCRIPTION · 1/4w · RIL · Resistor · R15 · R16 · 2i · Integrated Circuit · Selected t0 · WBS recommends the usc · manufacturers for continued"
+ ]
+}

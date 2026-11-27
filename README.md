@@ -211,88 +211,106 @@ Not on Google Drive yet: `M460A - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-22 contacts (P1), 22 contacts (P2). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 38 of 38 contacts. Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+**To check:**
+
+- insert guessed: what exactly sits between PRE OUT / BOOSTER IN and CH ON OUT / CH ON IN is not stated - insert reading is an interpretation preamp output out and booster amp input back: the insert point between preamp and booster (e.g. (M460A: 1977 - M460A - 460-04-004 - KYYS CONNECTOR REAR VIEW.jpg)
+
+**Inserts:** PRE / BOOSTER: PRE OUT → BOOSTER IN · CH ON / ATTENUATOR: CH ON OUT → CH ON IN
+
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 | MIC IN | in | A1 + | high |
-| 1 | NC | nc |  | medium |
-| 2 | GND | ground |  | medium |
-| 3 | LEFT OUT | out |  | medium |
-| 4 | IC | nc |  | medium |
-| 5 | BUS RIGHT OUT | out | A3 + | high |
-| 6 | IC | nc |  | medium |
-| 7 | GND | ground |  | medium |
-| 8 | RS2 | other |  | medium |
-| 8 | IC | nc |  | medium |
-| 9 | RS1 | other |  | medium |
-| 9 | NC | nc |  | medium |
-| 10 | PFL | audio |  | medium |
-| 10 | IC | nc |  | medium |
-| 11 | NC | nc |  | medium |
-| 11 | IC | nc |  | medium |
-| 12 | SOLO | audio |  | medium |
-| 12 | DIRECT OUT | out | A4 + | high |
-| 13 | NC | nc |  | medium |
-| 13 | IC | nc |  | medium |
-| 14 | NC | nc |  | medium |
-| 14 | IC | nc |  | medium |
-| 15 | NC | nc |  | medium |
-| 15 | IC | nc |  | medium |
-| 16 | ATT . IN SHIELD TIE | ground |  | medium |
-| 16 | PFL CONTROL | control |  | medium |
-| 17 | LINE IN | in | A2 + | high |
-| 17 | MUTE CONTROL | control |  | medium |
-| 18 | ATT | other |  | medium |
-| 18 | COMMON | ground |  | high |
-| 19 | FADER RETURN | in | B4 + | high |
-| 19 | -25 V | power |  | high |
-| 20 | CH ON SWITCH OUT | control | B3 + | high |
-| 20 | COMMON | ground |  | high |
-| 21 | INSERT RETURN | in | B2 + | high |
-| 21 | +25 V | power |  | high |
-| 22 | INSERT OUT | out | B1 + | high |
-| 22 | CHASSIS | ground |  | high |
-| A | MIC IN | in | A1 - | high |
-| A | NC | nc |  | medium |
-| B | GND | ground |  | medium |
-| C | LEFT OUT | out |  | medium |
-| D | IC | nc |  | medium |
-| E | BUS RIGHT OUT | out | A3 - | high |
-| F | IC | nc |  | medium |
-| H | GND | ground |  | medium |
-| J | RS2 | other |  | medium |
-| J | IC | nc |  | medium |
-| K | RS1 | other |  | medium |
-| K | NC | nc |  | medium |
-| L | PFL | audio |  | medium |
-| L | IC | nc |  | medium |
-| M | NC | nc |  | medium |
-| M | IC | nc |  | medium |
-| N | SOLO | audio |  | medium |
-| N | DIRECT OUT | out | A4 - | high |
-| P | NC | nc |  | medium |
-| P | IC | nc |  | medium |
-| R | NC | nc |  | medium |
-| R | IC | nc |  | medium |
-| S | NC | nc |  | medium |
-| S | NC | nc |  | medium |
-| T | ATT. TN SHIELD TIE | ground |  | medium |
-| T | PA CONTROL | control |  | medium |
-| U | LINE IN | in | A2 - | high |
-| U | MUTE CONTROL | control |  | medium |
-| V | ATT OUT SHIELD TIE | ground |  | medium |
-| V | SOLO CONTROL | control |  | medium |
-| W | FADER RETURN | in | B4 - | high |
-| W | CH ON | control |  | medium |
-| X | CH ON SWITCH OUT | control | B3 - | high |
-| X | CONTROL COM | ground |  | medium |
-| Y | INSERT RETURN | in | B2 - | high |
-| Y | +24 V | power |  | high |
-| Z | INSERT OUT | out | B1 - | high |
-| Z | CH. ON LAMP | control |  | medium |
+| P1-1 | MIC IN | in | MIC | high |
+| P1-2 | MIC SHIELD | shield | MIC shield | high |
+| P1-3 | PA BUS | bus | PA | high |
+| P1-4 | FB2 BUS | bus | FB2 | high |
+| P1-5 | FB1 BUS | bus | FB1 | high |
+| P1-6 | INTERNAL CONNECTION | other |  | high |
+| P1-7 | INTERNAL CONNECTION | other |  | high |
+| P1-8 | RS2 BUS | bus | RS2 | high |
+| P1-9 | RS1 BUS | bus | RS1 | high |
+| P1-10 | PFL BUS | bus | PFL | high |
+| P1-11 | N/C | nc |  | high |
+| P1-12 | SOLO BUS | bus | SOLO | high |
+| P1-13 | N/C | nc |  | high |
+| P1-14 | N/C | nc |  | high |
+| P1-15 | N/C | nc |  | high |
+| P1-16 | ATT. IN SHIELD TIE | shield | CH ON IN shield | high |
+| P1-17 | LINE IN | in | LINE IN | high |
+| P1-18 | ATT. OUT SHIELD TIE | shield | CH ON OUT shield | high |
+| P1-19 | BOOSTER IN | insert_return | BOOSTER IN | high |
+| P1-20 | CH ON OUT | insert_send | CH ON OUT | high |
+| P1-21 | CH ON IN | insert_return | CH ON IN | high |
+| P1-22 | PRE OUT | insert_send | PRE OUT | high |
+| P1-A | MIC IN | in | MIC | high |
+| P1-B | N/C | nc |  | high |
+| P1-C | PA BUS | bus | PA | high |
+| P1-D | FB2 BUS | bus | FB2 | high |
+| P1-E | FB1 BUS | bus | FB1 | high |
+| P1-F | INTERNAL CONNECTION | other |  | high |
+| P1-H | INTERNAL CONNECTION | other |  | high |
+| P1-J | RS2 BUS | bus | RS2 | high |
+| P1-K | RS1 BUS | bus | RS1 | high |
+| P1-L | PFL BUS | bus | PFL | high |
+| P1-M | N/C | nc |  | high |
+| P1-N | SOLO BUS | bus | SOLO | high |
+| P1-P | N/C | nc |  | high |
+| P1-R | N/C | nc |  | high |
+| P1-S | N/C | nc |  | high |
+| P1-T | ATT. IN SHIELD TIE | shield | CH ON IN shield | high |
+| P1-U | LINE IN | in | LINE IN | high |
+| P1-V | ATT. OUT SHIELD TIE | shield | CH ON OUT shield | high |
+| P1-W | BOOSTER IN | insert_return | BOOSTER IN | high |
+| P1-X | CH ON OUT | insert_send | CH ON OUT | high |
+| P1-Y | CH ON IN | insert_return | CH ON IN | high |
+| P1-Z | PRE OUT | insert_send | PRE OUT | high |
+| P2-1 | N/C | nc |  | high |
+| P2-2 | GROUND | ground |  | high |
+| P2-3 | LEFT OUT | out | LEFT OUT L | high |
+| P2-4 | INTERNAL CONNECTION | other |  | high |
+| P2-5 | RIGHT OUT | out | RIGHT OUT R | high |
+| P2-6 | INTERNAL CONNECTION | other |  | high |
+| P2-7 | GROUND | ground |  | high |
+| P2-8 | INTERNAL CONNECTION | other |  | high |
+| P2-9 | N/C | nc |  | high |
+| P2-10 | INTERNAL CONNECTION | other |  | high |
+| P2-11 | INTERNAL CONNECTION | other |  | high |
+| P2-12 | DIRECT OUT | out | DIRECT | high |
+| P2-13 | INTERNAL CONNECTION | other |  | high |
+| P2-14 | INTERNAL CONNECTION | other |  | high |
+| P2-15 | INTERNAL CONNECTION | other |  | high |
+| P2-16 | PFL CONTROL | control_in | PFL CONTROL | high |
+| P2-17 | MUTE CONTROL | control_in | MUTE CONTROL | high |
+| P2-18 | CONTROL COMMON | ground |  | high |
+| P2-19 | -25 V | power |  | high |
+| P2-20 | 25 V COM. | ground |  | high |
+| P2-21 | +25 V | power |  | high |
+| P2-22 | CHASSIS | ground |  | high |
+| P2-A | N/C | nc |  | high |
+| P2-B | GROUND | ground |  | high |
+| P2-C | LEFT OUT | out | LEFT OUT L | high |
+| P2-D | INTERNAL CONNECTION | other |  | high |
+| P2-E | RIGHT OUT | out | RIGHT OUT R | high |
+| P2-F | INTERNAL CONNECTION | other |  | high |
+| P2-H | GROUND | ground |  | high |
+| P2-J | INTERNAL CONNECTION | other |  | high |
+| P2-K | N/C | nc |  | high |
+| P2-L | INTERNAL CONNECTION | other |  | high |
+| P2-M | INTERNAL CONNECTION | other |  | high |
+| P2-N | DIRECT OUT | out | DIRECT | high |
+| P2-P | INTERNAL CONNECTION | other |  | high |
+| P2-R | INTERNAL CONNECTION | other |  | high |
+| P2-S | N/C | nc |  | high |
+| P2-T | PA CONTROL | control_in | PA CONTROL | high |
+| P2-U | MUTE CONTROL | control_in | MUTE CONTROL | high |
+| P2-V | SOLO CONTROL | control_in | SOLO CONTROL | high |
+| P2-W | CH ON | control_in | CH ON | high |
+| P2-X | CONTROL COMMON | ground |  | high |
+| P2-Y | +24 V | power |  | high |
+| P2-Z | CH ON LAMP | control_out | CH ON LAMP | high |
 
-**Straps:** CH ON LAMP: JMP.Z.W · CH ON GND : JMP.X.18 · 24V Jumper: JMP.Y.21 · CH ON GND : JMP.3 · Insert +: JMP.22.21 · Insert -: JMP.Z.Y · Fader +: JMP.20.19 · Fader - : JMP.X.W
+**Straps:** JMP.Z.W: P2-Z P2-W · JMP.X.18: P2-X P2-18 · JMP.Y.21: P2-Y P2-21 · JMP.3: P2-20 P2-18 · JMP.22.21: P1-22 P1-21 · JMP.Z.Y: P1-Z P1-Y · JMP.20.19: P1-20 P1-19 · JMP.X.W: P1-X P1-W
 
 ## Manuals and documents
 

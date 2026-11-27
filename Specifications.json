@@ -1,0 +1,253 @@
+{
+ "module": "M460A",
+ "title": "M450A INPUT MOOU LE",
+ "source": {
+  "file": "MANUALS/1979 - M460A - Input Module.pdf",
+  "page": 3
+ },
+ "ocr_quality": 0.98,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Input sensitivities",
+   "key": "input_sensitivity",
+   "text": "",
+   "items": [
+    {
+     "name": "Line",
+     "text": "-20 to +10 dBm (ref. 50D ohm source).",
+     "quantities": [
+      {
+       "from": -20,
+       "to": 10,
+       "unit": "dBm"
+      }
+     ],
+     "key": "line"
+    },
+    {
+     "name": "Mic pad",
+     "text": "-50 to -20 dBm (ref. 150 ohm source).",
+     "quantities": [
+      {
+       "from": -50,
+       "to": -20,
+       "unit": "dBm"
+      },
+      {
+       "value": 150,
+       "unit": "ohm"
+      }
+     ],
+     "key": "mic_pad"
+    },
+    {
+     "name": "Mlc",
+     "text": "-70 to -40 dBm (ref. 150 ohm source).",
+     "quantities": [
+      {
+       "from": -70,
+       "to": -40,
+       "unit": "dBm"
+      },
+      {
+       "value": 150,
+       "unit": "ohm"
+      }
+     ],
+     "key": "mlc"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "ro.as dB from 30 Hz to 20 kHz. (E qu al ize r i n bypass post tt on }.",
+   "quantities": [
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "-125 dBm EIN at maximum SENSITIVITY (20 Hz to 20 kHz).",
+   "quantities": [
+    {
+     "value": -125,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.251 THD from 30 Hz to 20 kHz at +28 dBm o r less. Less than o. a at 1 kHz at +28 dBm output.",
+   "quantities": [
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 28,
+     "unit": "dBm"
+    },
+    {
+     "value": 1,
+     "unit": "kHz"
+    },
+    {
+     "value": 28,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedances",
+   "key": "source_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Line",
+     "text": "150/600 ohms, balance d/ unbalanced.",
+     "quantities": [
+      {
+       "value": 600,
+       "unit": "ohms"
+      }
+     ],
+     "key": "line"
+    },
+    {
+     "name": "Mic",
+     "text": "150 ohms, balance d/un balanced.",
+     "quantities": [
+      {
+       "value": 150,
+       "unit": "ohms"
+      }
+     ],
+     "key": "mic"
+    }
+   ]
+  },
+  {
+   "name": "Input impedances",
+   "key": "input_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Line",
+     "text": "30,000 ohms.",
+     "quantities": [
+      {
+       "value": 30000,
+       "unit": "ohms"
+      }
+     ],
+     "key": "line"
+    },
+    {
+     "name": "Mic",
+     "text": "1,500 ohms.",
+     "quantities": [
+      {
+       "value": 1500,
+       "unit": "ohms"
+      }
+     ],
+     "key": "mic"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "Less than 100 ohms (a t outputs of 8 -109 or8 -109 A amplifiers only).",
+   "quantities": [
+    {
+     "value": 100,
+     "unit": "ohms"
+    },
+    {
+     "from": 8,
+     "to": 109,
+     "unit": "A"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "600 ohms, balanced (at insertion point).",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "-10 dBm nominal, +30 dBm maximum. (At outputs of 8 -109 or 8· I09A amplifiers only.)",
+   "quantities": [
+    {
+     "value": -10,
+     "unit": "dBm"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    },
+    {
+     "value": 9,
+     "unit": "A"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Input and output terminals designated by numbers are in phase."
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "±25 volts dc, 90 mA nominal, 250 mA maximum.",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts dc",
+     "tolerance": true
+    },
+    {
+     "value": 90,
+     "unit": "mA"
+    },
+    {
+     "value": 250,
+     "unit": "mA"
+    }
+   ]
+  }
+ ]
+}

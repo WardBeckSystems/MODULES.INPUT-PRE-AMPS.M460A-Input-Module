@@ -1,17 +1,17 @@
-# M460A · Input Pre Amps
+# M460A Input Module · Input Pre Amps
 
 Ward-Beck Systems M460A, 1976|9. Wiki page: [M460A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M460A.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 53 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 4 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 9 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 56 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 8 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 335 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 74 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 13 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 131 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 75 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 15 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 129 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -186,15 +186,6 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWm9PRWlxeEtZbG8/view?resourcekey=0-IDee8TZj8uRvKsFG6CldKg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWm9PRWlxeEtZbG8&resourcekey=0-IDee8TZj8uRvKsFG6CldKg" width="240" alt="1976 - M460A - 460-04-008 - XTERNA CONTROI FUNCTIONS NOTE THAT THE.jpg"></a><br><sub>1976|9 · 460-04-008 - XTERNA CONTROI FUNCTIONS NOTE THAT THE · <a href="MECHANICAL/1976%20-%20M460A%20-%20460-04-008%20-%20XTERNA%20CONTROI%20FUNCTIONS%20NOTE%20THAT%20THE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-## 3-D model
-
-[`MECHANICAL/M460A.stl`](MECHANICAL/M460A.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M460A)
-
-- **Size:** 51.17 × 316.29 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
-- **From the drawing:** 17 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M460A - front panel.svg`)
-- the drawn panel is 0.11 wide to high, the size 0.16: placed by its height
-- Made by `tools/module_models.py` (→ `MECHANICAL/M460A.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
-
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
@@ -203,10 +194,10 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSGFHc3d4dHNKVGc/view?resourcekey=0-ZWhpbCvcAINzONpFjCC4Pw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSGFHc3d4dHNKVGc&resourcekey=0-ZWhpbCvcAINzONpFjCC4Pw" width="240" alt="1976 - M460A - 4-110-02-001 - OMPONENT DESICN.jpg"></a><br><sub>1976|9 · 4-110-02-001 - OMPONENT DESICN · <a href="SCHEMATICS/1976%20-%20M460A%20-%204-110-02-001%20-%20OMPONENT%20DESICN%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKR1ZjWXNRbWVBbDg/view?resourcekey=0-OjiH32opd9nStV5lOfSlnw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKR1ZjWXNRbWVBbDg&resourcekey=0-OjiH32opd9nStV5lOfSlnw" width="240" alt="1976 - M460A - 4-110-06-001 - PRE-AMPIHP FILTER GCALE COMPONENT LAYOUT.jpg"></a><br><sub>1976|9 · 4-110-06-001 - PRE-AMPIHP FILTER GCALE COMPONENT LAYOUT · <a href="SCHEMATICS/1976%20-%20M460A%20-%204-110-06-001%20-%20PRE-AMPIHP%20FILTER%20GCALE%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKb0YzRE1UZHhQaHc/view?resourcekey=0-k6w0FgsPHxoWwY_6yePZVA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKb0YzRE1UZHhQaHc&resourcekey=0-k6w0FgsPHxoWwY_6yePZVA" width="240" alt="1976 - M460A - 4-126-02-001 - NEL EQUALIZER FILTER.jpg"></a><br><sub>1976|9 · 4-126-02-001 - NEL EQUALIZER FILTER · <a href="SCHEMATICS/1976%20-%20M460A%20-%204-126-02-001%20-%20NEL%20EQUALIZER%20FILTER%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZHFmQ19PMVJWaUk/view?resourcekey=0-qONM6lY2PnRwP5aEMqAZNw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZHFmQ19PMVJWaUk&resourcekey=0-qONM6lY2PnRwP5aEMqAZNw" width="240" alt="1976 - M460A - 4-126-06-001 - WAAD-DCCK SYSTBMS.jpg"></a><br><sub>1976|9 · 4-126-06-001 - WAAD-DCCK SYSTBMS · <a href="SCHEMATICS/1976%20-%20M460A%20-%204-126-06-001%20-%20WAAD-DCCK%20SYSTBMS%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKd1RvU05sYWlXQXM/view?resourcekey=0-XraCNmrxmFlxEn-j4hpckQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKd1RvU05sYWlXQXM&resourcekey=0-XraCNmrxmFlxEn-j4hpckQ" width="240" alt="1976 - M460A - 4-136-06-002 - MOTHERBOARD LAYOUT GCALE.jpg"></a><br><sub>1976|9 · 4-136-06-002 - MOTHERBOARD LAYOUT GCALE · <a href="SCHEMATICS/1976%20-%20M460A%20-%204-136-06-002%20-%20MOTHERBOARD%20LAYOUT%20GCALE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKb2hqcU9JTy1FUU0/view?resourcekey=0-kdupWTiqSz4ufYGNWyuFrg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKb2hqcU9JTy1FUU0&resourcekey=0-kdupWTiqSz4ufYGNWyuFrg" width="240" alt="1976 - M460A - 460-01-002 - CONTROL CONTROL COMMON.jpg"></a><br><sub>1976|9 · 460-01-002 - CONTROL CONTROL COMMON · <a href="SCHEMATICS/1976%20-%20M460A%20-%20460-01-002%20-%20CONTROL%20CONTROL%20COMMON%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSnFjTDVmdGVRbXM/view?resourcekey=0-sgD3dQk5Ci3ygqQ0wJk1Ww" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSnFjTDVmdGVRbXM&resourcekey=0-sgD3dQk5Ci3ygqQ0wJk1Ww" width="240" alt="1976 - M460A - 8-109-02-001 - NCMINAL VALUE.jpg"></a><br><sub>1976|9 · 8-109-02-001 - NCMINAL VALUE · <a href="SCHEMATICS/1976%20-%20M460A%20-%208-109-02-001%20-%20NCMINAL%20VALUE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSURtM1dzejNIb3c/view?resourcekey=0-OnyeT4ZLXaR5GlDuPwsMBw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSURtM1dzejNIb3c&resourcekey=0-OnyeT4ZLXaR5GlDuPwsMBw" width="240" alt="1976 - M460A - 8-109-02-002 - OUTPUT AMPLIFIER CKDE.jpg"></a><br><sub>1976|9 · 8-109-02-002 - OUTPUT AMPLIFIER CKDE · <a href="SCHEMATICS/1976%20-%20M460A%20-%208-109-02-002%20-%20OUTPUT%20AMPLIFIER%20CKDE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZ21ucFZndUxxaFk/view?resourcekey=0-Dr4496Q9nqCQOpmj4kLxHw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZ21ucFZndUxxaFk&resourcekey=0-Dr4496Q9nqCQOpmj4kLxHw" width="240" alt="1976 - M460A - 8-109-06-001 - BOOSTER AMPLIFIER.jpg"></a><br><sub>1976|9 · 8-109-06-001 - BOOSTER AMPLIFIER · <a href="SCHEMATICS/1976%20-%20M460A%20-%208-109-06-001%20-%20BOOSTER%20AMPLIFIER%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWk11UjB0cUg4ajg/view?resourcekey=0-IjCgWq57gzP8Ss-nXIS8xQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWk11UjB0cUg4ajg&resourcekey=0-IjCgWq57gzP8Ss-nXIS8xQ" width="240" alt="1976 - M460A - 8-109-06-002 - OUTPUT AMPLIFIER.jpg"></a><br><sub>1976|9 · 8-109-06-002 - OUTPUT AMPLIFIER · <a href="SCHEMATICS/1976%20-%20M460A%20-%208-109-06-002%20-%20OUTPUT%20AMPLIFIER%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1REGyd-nAvfHm-6cPBtx7gLgyY2Hnm4u9/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1REGyd-nAvfHm-6cPBtx7gLgyY2Hnm4u9" width="240" alt="1976 - M460A - REV 12 Input Module Schematic.jpg"></a><br><sub>1976|9 · REV 12 Input Module Schematic</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWk11UjB0cUg4ajg/view?resourcekey=0-IjCgWq57gzP8Ss-nXIS8xQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWk11UjB0cUg4ajg&resourcekey=0-IjCgWq57gzP8Ss-nXIS8xQ" width="240" alt="1976 - M460A - 8-109-06-002 - OUTPUT AMPLIFIER.jpg"></a><br><sub>1976|9 · 8-109-06-002 - OUTPUT AMPLIFIER · <a href="SCHEMATICS/1976%20-%20M460A%20-%208-109-06-002%20-%20OUTPUT%20AMPLIFIER%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1REGyd-nAvfHm-6cPBtx7gLgyY2Hnm4u9/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1REGyd-nAvfHm-6cPBtx7gLgyY2Hnm4u9" width="240" alt="1976 - M460A - REV 12 Input Module Schematic.jpg"></a><br><sub>1976|9 · REV 12 Input Module Schematic · <a href="SCHEMATICS/1976%20-%20M460A%20-%20REV%2012%20Input%20Module%20Schematic%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1978 - 8-109-02-001 - BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1.jpg`, `1978 - 8-109-02-002 - 8-109A OUTPUT AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1.jpg`, `19xx - 4-126-06-001.jpg`
+Not on Google Drive yet: `1978 - 8-109-02-001 - BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1.jpg`, `1978 - 8-109-02-002 - 8-109A OUTPUT AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1.jpg`
 
 ## Pinouts
 
@@ -342,8 +333,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVS15eW9IczVJS0U/view?resourcekey=0-tmrs_hZCwJ0OUt_9t5XfiA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVS15eW9IczVJS0U&resourcekey=0-tmrs_hZCwJ0OUt_9t5XfiA" width="240" alt="1983 - M460A - P034 - 4-126.jpg"></a><br><sub>1983|16 · P034 - 4-126</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `M460A - P002.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -358,9 +347,15 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1976 - M460A - Input Module p44.kicad_sch](KICAD/1976%20-%20M460A%20-%20Input%20Module%20p44.kicad_sch)
 - [1976 - M460A - Input Module p46.kicad_sch](KICAD/1976%20-%20M460A%20-%20Input%20Module%20p46.kicad_sch)
 - [1976 - M460A - Input Module p48.kicad_sch](KICAD/1976%20-%20M460A%20-%20Input%20Module%20p48.kicad_sch)
+- [1976 - M460A - REV 12 Input Module Schematic.kicad_sch](KICAD/1976%20-%20M460A%20-%20REV%2012%20Input%20Module%20Schematic.kicad_sch)
 - [1978 - 8-109-02-001 - BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1.kicad_sch](KICAD/1978%20-%208-109-02-001%20-%20BOOSTER%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20MRW%20-%20ISS%201.kicad_sch)
 - [1978 - 8-109-02-002 - 8-109A OUTPUT AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1.kicad_sch](KICAD/1978%20-%208-109-02-002%20-%208-109A%20OUTPUT%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20MRW%20-%20ISS%201.kicad_sch)
 - [M460A.kicad_sym](KICAD/M460A.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)

@@ -1,5 +1,5 @@
 # 1976 - M460A - 8-109-06-002 - OUTPUT AMPLIFIER.jpg
-Wiki page: [M460A](../../../../PAGES/M460A.md)
+Wiki page: [M460A](../)
 
 
 - **Year:** 1976 (module estimate (labelled))

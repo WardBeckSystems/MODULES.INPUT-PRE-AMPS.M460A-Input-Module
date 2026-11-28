@@ -1,5 +1,5 @@
 # 1976 - M460A - 460-04-008 - XTERNA CONTROI FUNCTIONS NOTE THAT THE.jpg
-Wiki page: [M460A](../../../../PAGES/M460A.md)
+Wiki page: [M460A](../)
 
 
 - **Year:** 1976 (module estimate (labelled))

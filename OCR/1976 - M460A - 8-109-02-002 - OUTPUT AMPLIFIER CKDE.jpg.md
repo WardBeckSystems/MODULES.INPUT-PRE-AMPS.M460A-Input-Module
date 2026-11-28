@@ -1,5 +1,5 @@
 # 1976 - M460A - 8-109-02-002 - OUTPUT AMPLIFIER CKDE.jpg
-Wiki page: [M460A](../../../../PAGES/M460A.md)
+Wiki page: [M460A](../)
 
 
 - **Year:** 1976 (module estimate (labelled))

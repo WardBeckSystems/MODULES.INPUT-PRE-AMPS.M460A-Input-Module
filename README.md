@@ -1,6 +1,6 @@
 # M460A Input Module · Input Pre Amps
 
-Ward-Beck Systems M460A, 1976|9. Wiki page: [M460A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M460A.html)
+Ward-Beck Systems M460A, 1976|9. Wiki page: [M460A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460A-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

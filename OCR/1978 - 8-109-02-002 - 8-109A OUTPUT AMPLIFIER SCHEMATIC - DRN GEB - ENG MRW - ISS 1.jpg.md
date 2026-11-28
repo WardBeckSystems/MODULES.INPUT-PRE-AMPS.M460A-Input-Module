@@ -1,5 +1,5 @@
 # 1978 - 8-109-02-002 - 8-109A OUTPUT AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1.jpg
-Wiki page: [M460A](../../../../PAGES/M460A.md)
+Wiki page: [M460A](../)
 
 
 - **Year:** 1978 (title block date)

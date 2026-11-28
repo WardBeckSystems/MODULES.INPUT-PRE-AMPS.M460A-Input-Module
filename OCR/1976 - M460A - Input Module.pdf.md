@@ -1,5 +1,5 @@
 # 1976 - M460A - Input Module.pdf
-Wiki page: [M460A](../../../../PAGES/M460A.md)
+Wiki page: [M460A](../)
 
 
 - **Year:** 1976 (found in this file: "DATE 8 DEC 76")

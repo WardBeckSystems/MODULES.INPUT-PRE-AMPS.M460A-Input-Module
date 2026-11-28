@@ -1,5 +1,5 @@
 # 1979 - M460A - Input Module.pdf
-Wiki page: [M460A](../../../../PAGES/M460A.md)
+Wiki page: [M460A](../)
 
 
 - **Year:** 1979 (found in this file: "MANUAL I SSUE ' 3 :// tp J AN. 1979")

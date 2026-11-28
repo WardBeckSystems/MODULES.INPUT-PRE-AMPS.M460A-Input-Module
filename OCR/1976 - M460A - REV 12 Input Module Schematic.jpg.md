@@ -1,5 +1,5 @@
 # 1976 - M460A - REV 12 Input Module Schematic.jpg
-Wiki page: [M460A](../../../../PAGES/M460A.md)
+Wiki page: [M460A](../)
 
 
 - **Year:** 1976 (module estimate (labelled))

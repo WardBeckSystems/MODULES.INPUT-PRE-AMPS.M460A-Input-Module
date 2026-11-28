@@ -1,5 +1,5 @@
 # 1977 - M460A - 460-04-004 - KYYS CONNECTOR REAR VIEW.jpg
-Wiki page: [M460A](../../../../PAGES/M460A.md)
+Wiki page: [M460A](../)
 
 
 - **Year:** 1977 (found in this file: "DATE JaN 77")

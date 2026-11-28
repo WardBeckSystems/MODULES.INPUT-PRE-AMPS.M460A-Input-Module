@@ -1,5 +1,5 @@
 # 1976 - M460A - 460-01-002 - CONTROL CONTROL COMMON.jpg
-Wiki page: [M460A](../../../../PAGES/M460A.md)
+Wiki page: [M460A](../)
 
 
 - **Year:** 1976 (found in this file: "DATE 8 DEC 76")
